@@ -1,0 +1,5 @@
+cd "C:\Users\sabbir\OneDrive\Desktop\Data Analist\Projects"
+git status
+git add .
+git commit -m "Push file"
+git push origin main

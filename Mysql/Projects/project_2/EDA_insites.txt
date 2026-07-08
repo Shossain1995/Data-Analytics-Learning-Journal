@@ -1,0 +1,82 @@
+1.max(total_laid_off)-> 12000, 
+max(percentage_laid_off)-> 1 means 100%.
+
+2.('Katerra', 'SF Bay Area', 'Construction', '2434', '1', '2021-06-01', 'Unknown', 'United States', '1600'
+company, location, industry, total_laid_off, percentage_laid_off, Date, stage, country, funds_raised_millions)
+
+3.('Britishvolt', 'London', 'Transportation', '206', '1', '2023-01-17', 'Unknown', 'United Kingdom', '2400'
+)
+
+4.select company, sum(total_laid_off) from layoff_staffing_2 group by company order by 2 desc -> 'Amazon', '18150'
+5.  by in industry -> 'Consumer', '45182'
+6. by country -> 'United States', '256559'
+7. by  `Date` -> '2023-01-04', '16171'
+
+8. `Date` order by 1 desc; -> '2023-03-06', '1495'
+9.group by year (`Date`) order by 1 desc; -> 	2023	125677
+10.group by year (`Date`) order by 2 desc;-> '2022', '160661'
+11.group by stage order by 1 desc;-> 'Unknown', '40716' , 'Subsidiary', '1094'
+12. group by stage order by 2 desc; -> 'Post-IPO', '204132'
+13. select company , sum(percentage_laid_off) from layoff_staffing_2
+group by company order by 2 desc; ->
+'Service', '2'
+'Airy Rooms', '1.7'
+'Medly', '1.66'
+'Pollen', '1.6400000000000001'
+'Rubius', '1.5699999999999998'
+14. select company , avg(percentage_laid_off) from layoff_staffing_2
+group by company order by 1 desc; 
+'Zymergen', '0.1'
+'Zwift', NULL
+'Zuora', '0.11'
+'Zumper', '0.15'
+'Zume', '0.67'
+15. select company , avg(percentage_laid_off) from layoff_staffing_2
+group by company order by 2 desc;
+'Ahead', '1'
+'Amplero', '1'
+'Arch Oncology', '1'
+'Assure', '1'
+'Atsu', '1'
+16.11:34:57	with Rolling_Total as  (select substring(`Date`, 1,7) AS `MONTH`,  sum(total_laid_off) total_off from layoff_staffing_2 where substring(`Date`, 1,7) is not null group by `MONTH` order by 1 asc) select `MONTH`, total_off, sum(total_off) over(order by `MONTH`)  AS rolling_total from Rolling_Total	36 row(s) returned	0.016 sec / 0.000 sec
+
+'2020-03', '9628', '9628'
+'2020-04', '26710', '36338'
+'2020-05', '25804', '62142'
+'2020-06', '7627', '69769'
+'2020-07', '7112', '76881'
+17. 11:40:25	select company, year (`Date`) , sum(total_laid_off)  from layoff_staffing_2 group by company, year (`Date`)  # order by company ASC ; order by 3 desc LIMIT 0, 1000	1000 row(s) returned	0.000 sec / 0.000 sec
+'Google', '2023', '12000'
+'Meta', '2022', '11000'
+'Amazon', '2022', '10150'
+'Microsoft', '2023', '10000'
+'Ericsson', '2023', '8500'
+18. 'Uber', '2020', '7525', '1'
+'Booking.com', '2020', '4375', '2'
+'Groupon', '2020', '2800', '3'
+'Swiggy', '2020', '2250', '4'
+'Airbnb', '2020', '1900', '5'
+'Bytedance', '2021', '3600', '1'
+'Katerra', '2021', '2434', '2'
+'Zillow', '2021', '2000', '3'
+'Instacart', '2021', '1877', '4'
+'WhiteHat Jr', '2021', '1800', '5'
+'Meta', '2022', '11000', '1'
+'Amazon', '2022', '10150', '2'
+'Cisco', '2022', '4100', '3'
+'Peloton', '2022', '4084', '4'
+'Carvana', '2022', '4000', '5'
+'Philips', '2022', '4000', '5'
+'Google', '2023', '12000', '1'
+'Microsoft', '2023', '10000', '2'
+'Ericsson', '2023', '8500', '3'
+'Amazon', '2023', '8000', '4'
+'Salesforce', '2023', '8000', '4'
+'Dell', '2023', '6650', '5'
+
+
+
+
+
+
+

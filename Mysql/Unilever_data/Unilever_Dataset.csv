@@ -1,0 +1,1031 @@
+order_id,order_date,customer_name,product_name,category,quantity,unit_price,total_amount,warehouse,region,payment_status,order_status,dispatch_date,delivery_date
+1,2025-03-12,,Tea,Foods,4,120,480.0,WH-C,Dhaka,Failed,Delivered,,2025-03-16
+2,2025-01-08,Customer_60,Lotion,Beauty,14,120,1680.0,WH-C,Sylhet,Paid,Pending,2025-01-09,2025-01-11
+3,2025-02-26,Customer_72,Tea,Foods,18,350,6300.0,,Chattogram,Failed,Dispatched,2025-03-02,2025-03-07
+4,2025-02-25,Customer_24,Toothpaste,Personal Care,9,180,1620.0,WH-B,Dhaka,Pending,Cancelled,2025-02-28,2025-03-01
+5,2025-04-28,Customer_250,Lotion,Beauty,9,120,1080.0,WH-B,Dhaka,Failed,Cancelled,2025-05-03,2025-05-04
+6,2025-05-28,Customer_18,Ice Cream,Foods,20,250,5000.0,WH-A,Chattogram,Pending,Delivered,2025-05-30,2025-06-05
+7,2025-04-08,Customer_163,Ice Cream,Foods,8,120,960.0,WH-B,Chattogram,Pending,Cancelled,2025-04-11,2025-04-15
+8,2025-06-05,Customer_187,Shampoo,Personal Care,9,120,1080.0,WH-A,Chattogram,Pending,Dispatched,2025-06-07,2025-06-12
+9,2025-06-25,Customer_197,Toothpaste,Personal Care,18,180,3240.0,WH-A,Chattogram,Paid,Cancelled,2025-06-28,2025-07-05
+10,2025-02-24,Customer_81,Detergent,Home Care,9,120,1080.0,WH-A,Rajshahi,Pending,Dispatched,2025-03-01,2025-03-07
+11,2025-03-05,Customer_68,Shampoo,Personal Care,9,180,1620.0,WH-C,Sylhet,Pending,Dispatched,2025-03-10,2025-03-15
+12,2025-05-11,Customer_194,Toothpaste,Personal Care,8,180,1440.0,WH-A,Dhaka,Paid,Pending,2025-05-15,2025-05-16
+13,2025-01-17,Customer_153,Ice Cream,Foods,14,500,7000.0,WH-B,Sylhet,Pending,Delivered,2025-01-21,2025-01-25
+14,2025-03-10,Customer_76,Tea,Foods,4,500,2000.0,WH-B,Chattogram,Pending,Delivered,2025-03-13,2025-03-14
+15,2025-02-15,Customer_223,Tea,Foods,9,500,4500.0,WH-C,Khulna,Failed,Pending,2025-02-20,2025-02-21
+16,2025-05-19,Customer_154,Shampoo,Personal Care,12,180,2160.0,WH-B,Rajshahi,Paid,Delivered,2025-05-24,2025-05-25
+17,2025-01-15,Customer_243,Toothpaste,Personal Care,10,180,1800.0,WH-A,Dhaka,Failed,Dispatched,2025-01-17,2025-01-22
+18,2025-02-02,Customer_122,Ice Cream,Foods,3,500,1500.0,WH-C,Chattogram,Pending,Dispatched,2025-02-04,2025-02-10
+19,2025-03-21,Customer_167,Shampoo,Personal Care,18,180,3240.0,WH-B,Rajshahi,Failed,Dispatched,2025-03-25,2025-03-31
+20,2025-01-17,Customer_151,Soap,Personal Care,8,180,1440.0,WH-C,Chattogram,Failed,Pending,2025-01-20,2025-01-21
+21,2025-02-28,Customer_221,Soap,Personal Care,3,120,360.0,WH-B,Dhaka,Failed,Pending,2025-03-01,2025-03-02
+22,2025-05-19,Customer_240,Toothpaste,Personal Care,16,180,2880.0,WH-C,Sylhet,Pending,Pending,2025-05-21,2025-05-27
+23,2025-02-18,Customer_169,Ice Cream,Foods,16,350,,WH-B,Khulna,Pending,Dispatched,2025-02-19,2025-02-20
+24,2025-01-16,Customer_87,Detergent,Home Care,2,120,240.0,WH-A,Chattogram,Paid,Pending,2025-01-20,2025-01-26
+25,2025-04-19,Customer_119,Lotion,Beauty,15,180,2700.0,WH-A,Dhaka,Pending,Delivered,2025-04-21,2025-04-24
+26,2025-01-24,Customer_105,Soap,Personal Care,18,120,2160.0,WH-B,Rajshahi,Paid,Dispatched,2025-01-26,2025-01-28
+27,2025-01-01,Customer_238,Soap,Personal Care,6,350,2100.0,WH-B,Khulna,Pending,Dispatched,2025-01-05,2025-01-08
+28,2025-02-25,Customer_189,Shampoo,Personal Care,7,250,1750.0,WH-C,Dhaka,Failed,Cancelled,2025-02-26,2025-03-03
+29,2025-05-03,Customer_136,Soap,Personal Care,2,500,1000.0,WH-A,Dhaka,Failed,Delivered,2025-05-08,2025-05-15
+30,2025-06-02,Customer_221,Ice Cream,Foods,6,120,720.0,WH-A,Rajshahi,Paid,Pending,2025-06-03,2025-06-09
+31,2025-06-08,Customer_169,Lotion,Beauty,20,120,2400.0,WH-C,Sylhet,Failed,Cancelled,2025-06-09,2025-06-13
+32,2025-03-03,Customer_34,Toothpaste,Personal Care,7,250,1750.0,WH-C,Khulna,Pending,Cancelled,2025-03-06,2025-03-10
+33,2025-04-28,Customer_26,Ice Cream,Foods,3,120,360.0,WH-A,Sylhet,Paid,Cancelled,2025-05-03,2025-05-08
+34,2025-03-04,Customer_41,Shampoo,Personal Care,12,120,1440.0,WH-B,Sylhet,Failed,Cancelled,2025-03-07,2025-03-10
+35,2025-06-20,Customer_239,Lotion,Beauty,17,120,2040.0,WH-C,Dhaka,Paid,Cancelled,2025-06-25,2025-06-28
+36,2025-02-09,Customer_155,Soap,Personal Care,4,500,2000.0,WH-A,Khulna,,Cancelled,2025-02-12,2025-02-15
+37,2025-01-14,Customer_109,Lotion,Beauty,16,250,4000.0,WH-B,Dhaka,Paid,Cancelled,2025-01-15,2025-01-21
+38,2025-02-11,Customer_181,Ice Cream,Foods,5,250,1250.0,WH-B,Sylhet,Paid,Delivered,2025-02-15,2025-02-20
+39,2025-01-10,Customer_142,Soap,Personal Care,5,500,2500.0,WH-A,Rajshahi,Paid,Delivered,2025-01-13,2025-01-18
+40,2025-04-02,Customer_64,Toothpaste,Personal Care,12,120,1440.0,,Dhaka,Pending,Dispatched,2025-04-04,2025-04-10
+41,2025-02-11,Customer_7,Lotion,Beauty,5,180,900.0,WH-A,Khulna,Pending,Pending,2025-02-13,2025-02-17
+42,2025-04-08,Customer_121,Toothpaste,Personal Care,6,120,720.0,WH-A,Chattogram,Pending,Cancelled,2025-04-09,2025-04-16
+43,2025-01-07,Customer_85,Toothpaste,Personal Care,8,180,1440.0,WH-B,Dhaka,Pending,Cancelled,2025-01-09,2025-01-13
+44,2025-06-23,Customer_241,Tea,Foods,17,350,5950.0,WH-A,Dhaka,Pending,Pending,2025-06-28,2025-07-01
+45,2025-01-28,Customer_89,Lotion,Beauty,9,120,1080.0,WH-C,Khulna,Pending,Delivered,2025-02-02,2025-02-06
+46,2025-03-07,Customer_112,Detergent,Home Care,19,180,3420.0,,Sylhet,Failed,Pending,2025-03-08,2025-03-14
+47,2025-06-20,Customer_81,Toothpaste,Personal Care,14,120,1680.0,WH-C,Dhaka,Failed,Cancelled,2025-06-23,2025-06-28
+48,2025-03-25,Customer_76,Lotion,Beauty,10,350,3500.0,WH-C,Chattogram,Paid,Dispatched,2025-03-29,2025-04-04
+49,2025-06-07,Customer_104,Tea,Foods,13,180,2340.0,WH-C,Dhaka,Pending,Cancelled,2025-06-12,2025-06-15
+50,2025-06-05,Customer_114,Shampoo,Personal Care,14,500,7000.0,WH-B,Chattogram,Failed,Dispatched,2025-06-08,2025-06-12
+51,2025-03-14,Customer_163,Ice Cream,Foods,6,120,,WH-C,Khulna,Paid,Pending,2025-03-19,2025-03-25
+52,2025-02-20,Customer_12,Tea,Foods,10,180,1800.0,WH-A,Rajshahi,Failed,Delivered,2025-02-22,2025-02-23
+53,2025-02-19,Customer_103,Detergent,Home Care,14,500,7000.0,WH-A,Chattogram,Failed,Delivered,2025-02-23,2025-02-27
+54,2025-02-26,Customer_246,Ice Cream,Foods,4,350,1400.0,WH-C,Sylhet,Pending,Delivered,2025-02-28,2025-03-07
+55,2025-04-27,Customer_119,Lotion,Beauty,8,120,960.0,WH-C,Sylhet,Failed,Cancelled,2025-04-29,2025-05-06
+56,2025-05-10,Customer_233,Ice Cream,Foods,15,500,7500.0,WH-C,Rajshahi,Paid,Dispatched,2025-05-14,2025-05-21
+57,2025-06-13,Customer_200,Detergent,Home Care,9,180,1620.0,WH-C,Rajshahi,Failed,Pending,2025-06-16,2025-06-23
+58,2025-03-15,Customer_86,Toothpaste,Personal Care,15,120,1800.0,WH-B,Sylhet,Paid,Pending,2025-03-17,2025-03-20
+59,2025-06-27,Customer_55,Shampoo,Personal Care,8,350,2800.0,WH-A,Rajshahi,Pending,Cancelled,2025-06-29,2025-07-05
+60,2025-01-16,Customer_108,Lotion,Beauty,15,350,5250.0,WH-B,Sylhet,Failed,Delivered,2025-01-18,2025-01-25
+61,2025-05-03,Customer_77,Ice Cream,Foods,19,350,6650.0,WH-B,Rajshahi,Failed,Pending,2025-05-04,2025-05-07
+62,2025-04-22,Customer_100,Detergent,Home Care,8,250,2000.0,WH-B,Rajshahi,Failed,Pending,2025-04-26,2025-04-27
+63,2025-06-09,Customer_233,Ice Cream,Foods,15,180,2700.0,WH-B,Sylhet,Failed,Delivered,2025-06-14,2025-06-15
+64,2025-04-29,Customer_67,Soap,Personal Care,14,180,2520.0,WH-B,Khulna,Paid,Dispatched,2025-05-01,2025-05-02
+65,2025-03-13,Customer_214,Toothpaste,Personal Care,11,350,3850.0,WH-A,Rajshahi,Paid,Delivered,2025-03-17,2025-03-20
+66,2025-06-16,Customer_8,Toothpaste,Personal Care,8,120,960.0,WH-A,Chattogram,Paid,Pending,2025-06-17,2025-06-24
+67,2025-06-21,Customer_243,Shampoo,Personal Care,5,350,1750.0,WH-A,Rajshahi,Failed,Cancelled,2025-06-22,2025-06-27
+68,2025-06-05,Customer_184,Ice Cream,Foods,12,180,2160.0,WH-A,Chattogram,Pending,Delivered,2025-06-10,2025-06-16
+69,2025-05-28,Customer_242,Lotion,Beauty,1,250,250.0,WH-C,Chattogram,Paid,Pending,2025-06-01,2025-06-05
+70,2025-01-31,Customer_11,Soap,Personal Care,10,500,5000.0,WH-B,Sylhet,Pending,Cancelled,2025-02-05,2025-02-12
+71,2025-01-04,Customer_126,Soap,Personal Care,17,250,4250.0,WH-A,Rajshahi,Pending,Dispatched,2025-01-08,2025-01-15
+72,2025-02-15,Customer_70,Tea,Foods,5,350,1750.0,WH-C,Sylhet,Pending,Dispatched,2025-02-20,2025-02-26
+73,2025-03-24,Customer_240,Detergent,Home Care,19,250,4750.0,WH-A,Khulna,Pending,Pending,2025-03-26,2025-04-02
+74,2025-06-06,Customer_8,Ice Cream,Foods,15,500,7500.0,WH-B,Khulna,Paid,Dispatched,2025-06-10,2025-06-13
+75,2025-03-29,Customer_180,Shampoo,Personal Care,12,250,3000.0,WH-B,Sylhet,Paid,Pending,2025-04-01,2025-04-06
+76,2025-05-06,Customer_62,Soap,Personal Care,8,350,2800.0,WH-C,Rajshahi,Failed,Dispatched,2025-05-11,2025-05-18
+77,2025-03-17,Customer_178,Detergent,Home Care,1,120,120.0,WH-A,Khulna,Failed,Cancelled,2025-03-19,2025-03-23
+78,2025-03-30,Customer_141,Detergent,Home Care,18,500,9000.0,WH-B,Khulna,Failed,Dispatched,2025-04-03,2025-04-09
+79,2025-03-01,Customer_50,Toothpaste,Personal Care,10,250,2500.0,WH-B,Dhaka,Failed,Pending,2025-03-02,2025-03-08
+80,2025-03-12,Customer_135,Shampoo,Personal Care,7,350,2450.0,WH-C,Khulna,Paid,Pending,2025-03-17,2025-03-24
+81,2025-02-15,Customer_182,Toothpaste,Personal Care,8,250,2000.0,WH-C,Chattogram,Pending,Delivered,2025-02-18,2025-02-19
+82,2025-06-28,Customer_223,Soap,Personal Care,18,250,4500.0,WH-B,Dhaka,Paid,Cancelled,2025-06-30,2025-07-06
+83,2025-03-29,Customer_65,Detergent,Home Care,16,350,5600.0,WH-B,Dhaka,Paid,Dispatched,2025-03-31,2025-04-01
+84,2025-06-11,Customer_39,Detergent,Home Care,3,500,1500.0,WH-C,Khulna,Paid,Pending,2025-06-12,2025-06-14
+85,2025-06-05,Customer_159,Soap,Personal Care,18,350,6300.0,WH-A,Sylhet,Pending,Dispatched,2025-06-10,2025-06-17
+86,2025-04-20,Customer_159,Detergent,Home Care,10,500,5000.0,WH-A,Sylhet,Failed,Delivered,2025-04-23,2025-04-28
+87,2025-03-09,Customer_62,Ice Cream,Foods,7,180,1260.0,WH-A,Sylhet,Paid,Pending,2025-03-10,2025-03-12
+88,2025-06-26,Customer_75,Soap,Personal Care,14,350,4900.0,WH-A,Chattogram,Pending,Cancelled,2025-07-01,2025-07-05
+89,2025-06-25,Customer_202,Tea,Foods,15,120,1800.0,WH-C,Sylhet,Failed,Pending,2025-06-27,2025-06-30
+90,2025-02-27,Customer_212,Detergent,Home Care,4,500,2000.0,WH-A,Dhaka,Paid,Pending,2025-03-01,2025-03-04
+91,2025-05-26,Customer_32,Ice Cream,Foods,10,500,5000.0,WH-B,Khulna,Failed,Dispatched,2025-05-29,2025-06-02
+92,2025-05-07,Customer_154,Toothpaste,Personal Care,17,500,8500.0,WH-A,Rajshahi,Failed,Cancelled,2025-05-11,2025-05-12
+93,2025-01-24,Customer_215,Lotion,Beauty,9,120,1080.0,WH-C,Sylhet,Paid,Cancelled,2025-01-26,2025-02-01
+94,2025-05-01,Customer_114,Lotion,Beauty,2,180,360.0,WH-B,Chattogram,Failed,Dispatched,2025-05-06,2025-05-12
+95,2025-05-01,Customer_86,Tea,Foods,16,120,1920.0,WH-B,Dhaka,Paid,Cancelled,2025-05-04,2025-05-08
+96,2025-06-19,Customer_195,Detergent,Home Care,16,250,4000.0,WH-C,Dhaka,Pending,Delivered,2025-06-23,2025-06-30
+97,2025-01-30,Customer_132,Toothpaste,Personal Care,9,250,2250.0,WH-A,Sylhet,Pending,Dispatched,2025-02-03,2025-02-10
+98,2025-04-03,Customer_128,Soap,Personal Care,7,500,3500.0,WH-C,Rajshahi,Paid,Pending,2025-04-08,2025-04-15
+99,2025-03-15,Customer_125,Toothpaste,Personal Care,18,180,3240.0,,Dhaka,Failed,Pending,2025-03-19,2025-03-25
+100,2025-05-22,Customer_105,Tea,Foods,6,250,1500.0,WH-A,Chattogram,Paid,Dispatched,2025-05-23,2025-05-28
+101,2025-03-16,Customer_70,Soap,Personal Care,5,350,1750.0,WH-B,Rajshahi,,Pending,2025-03-21,2025-03-27
+102,2025-04-09,Customer_131,Detergent,Home Care,18,180,3240.0,WH-C,Chattogram,Paid,Cancelled,2025-04-11,2025-04-16
+103,2025-05-10,Customer_1,Ice Cream,Foods,14,250,3500.0,WH-B,Khulna,Failed,Dispatched,2025-05-13,2025-05-20
+104,2025-05-18,Customer_86,Ice Cream,Foods,5,350,1750.0,WH-C,Sylhet,Pending,Dispatched,2025-05-22,2025-05-25
+105,2025-05-27,Customer_220,Toothpaste,Personal Care,7,180,1260.0,WH-B,Dhaka,Pending,Dispatched,2025-05-31,2025-06-02
+106,2025-06-19,Customer_247,Tea,Foods,13,350,4550.0,WH-A,Chattogram,Failed,Cancelled,2025-06-21,2025-06-25
+107,2025-01-26,Customer_4,Ice Cream,Foods,4,350,1400.0,WH-C,Chattogram,,Pending,2025-01-31,2025-02-04
+108,2025-03-28,Customer_102,Soap,Personal Care,16,250,,WH-C,Dhaka,Pending,Dispatched,2025-04-02,2025-04-08
+109,2025-01-10,Customer_61,Toothpaste,Personal Care,16,500,8000.0,WH-C,Khulna,Paid,Delivered,2025-01-15,2025-01-16
+110,2025-04-24,Customer_77,Detergent,Home Care,4,120,480.0,WH-A,Dhaka,Pending,Delivered,2025-04-26,2025-05-02
+111,2025-04-21,Customer_136,Toothpaste,Personal Care,12,250,3000.0,WH-B,Sylhet,Failed,Pending,2025-04-23,2025-04-25
+112,2025-06-06,Customer_175,Shampoo,Personal Care,6,120,720.0,WH-A,Rajshahi,Failed,Pending,2025-06-10,2025-06-15
+113,2025-04-28,Customer_3,Shampoo,Personal Care,15,250,3750.0,WH-B,Khulna,Failed,Pending,2025-05-01,2025-05-07
+114,2025-05-31,Customer_247,Soap,Personal Care,15,250,3750.0,WH-B,Khulna,Pending,Cancelled,2025-06-03,2025-06-09
+115,2025-01-28,Customer_147,Shampoo,Personal Care,13,350,4550.0,WH-B,Sylhet,Pending,Cancelled,2025-01-30,2025-02-03
+116,2025-01-03,Customer_176,Soap,Personal Care,13,250,3250.0,WH-C,Dhaka,,Dispatched,2025-01-08,2025-01-15
+117,2025-06-05,Customer_163,Ice Cream,Foods,10,180,1800.0,WH-A,Sylhet,Pending,Pending,2025-06-08,2025-06-10
+118,2025-03-21,Customer_149,Tea,Foods,4,120,480.0,WH-B,Chattogram,Paid,Cancelled,2025-03-25,2025-03-26
+119,2025-02-21,Customer_139,Toothpaste,Personal Care,14,180,2520.0,WH-B,Sylhet,Failed,Cancelled,2025-02-23,2025-03-02
+120,2025-05-04,Customer_223,Ice Cream,Foods,6,250,1500.0,WH-B,Dhaka,Pending,Delivered,2025-05-07,2025-05-13
+121,2025-05-23,Customer_203,Shampoo,Personal Care,8,350,2800.0,,Dhaka,Pending,Delivered,2025-05-26,2025-05-27
+122,2025-05-30,Customer_164,Detergent,Home Care,12,250,3000.0,WH-B,Dhaka,Failed,Pending,2025-06-03,2025-06-10
+123,2025-05-24,Customer_57,Detergent,Home Care,1,500,500.0,WH-C,Dhaka,,Dispatched,2025-05-27,2025-06-01
+124,2025-01-30,Customer_243,Tea,Foods,10,350,3500.0,WH-A,Khulna,Pending,Delivered,2025-02-01,2025-02-02
+125,2025-02-04,Customer_95,Soap,Personal Care,8,500,4000.0,WH-C,Sylhet,Pending,Pending,2025-02-08,2025-02-12
+126,2025-06-07,Customer_9,Detergent,Home Care,4,350,1400.0,WH-C,Khulna,Paid,Dispatched,2025-06-11,2025-06-14
+127,2025-01-26,Customer_231,Detergent,Home Care,8,250,2000.0,WH-C,Khulna,Paid,Dispatched,2025-01-29,2025-02-03
+128,2025-04-27,Customer_55,Toothpaste,Personal Care,7,120,840.0,WH-C,Sylhet,Paid,Delivered,2025-04-28,2025-05-04
+129,2025-02-02,Customer_18,Ice Cream,Foods,11,180,1980.0,WH-C,Chattogram,Failed,Pending,2025-02-07,2025-02-09
+130,2025-02-07,Customer_71,Ice Cream,Foods,8,250,2000.0,WH-A,Chattogram,Failed,Cancelled,2025-02-12,2025-02-13
+131,2025-06-19,Customer_4,Ice Cream,Foods,6,120,720.0,WH-B,Chattogram,Failed,Cancelled,2025-06-20,2025-06-22
+132,2025-01-14,Customer_108,Soap,Personal Care,6,250,1500.0,WH-C,Dhaka,Failed,Delivered,2025-01-16,2025-01-22
+133,2025-05-12,Customer_116,Detergent,Home Care,15,250,3750.0,WH-C,Chattogram,Failed,Delivered,2025-05-17,2025-05-18
+134,2025-04-28,Customer_123,Tea,Foods,17,250,4250.0,WH-B,Rajshahi,Failed,Delivered,2025-04-29,2025-04-30
+135,2025-01-21,Customer_38,Detergent,Home Care,15,120,1800.0,WH-A,Chattogram,Pending,Cancelled,2025-01-24,2025-01-29
+136,2025-03-17,Customer_155,Detergent,Home Care,20,500,10000.0,WH-B,Dhaka,Failed,Delivered,2025-03-21,2025-03-26
+137,2025-04-21,Customer_106,Ice Cream,Foods,18,180,3240.0,WH-B,Rajshahi,Pending,Dispatched,2025-04-25,2025-04-27
+138,2025-04-20,Customer_66,Tea,Foods,4,250,1000.0,WH-B,Chattogram,Failed,Dispatched,2025-04-23,2025-04-29
+139,2025-01-24,Customer_191,Soap,Personal Care,3,120,360.0,WH-C,Khulna,Paid,Delivered,2025-01-28,2025-01-29
+140,2025-03-26,Customer_91,Lotion,Beauty,18,500,9000.0,WH-C,Rajshahi,Failed,Delivered,2025-03-27,2025-03-31
+141,2025-04-01,Customer_130,Toothpaste,Personal Care,20,250,5000.0,WH-A,Chattogram,Failed,Dispatched,2025-04-02,2025-04-07
+142,2025-05-23,Customer_196,Shampoo,Personal Care,4,250,1000.0,WH-B,Sylhet,Paid,Dispatched,2025-05-26,2025-05-27
+143,2025-06-07,Customer_156,Ice Cream,Foods,18,500,9000.0,WH-C,Khulna,Paid,Pending,2025-06-12,2025-06-13
+144,2025-03-31,Customer_223,Toothpaste,Personal Care,10,250,2500.0,WH-A,Sylhet,Failed,Dispatched,2025-04-01,2025-04-03
+145,2025-01-24,Customer_97,Soap,Personal Care,5,120,600.0,WH-B,Rajshahi,Pending,Pending,2025-01-29,2025-01-31
+146,2025-05-26,Customer_227,Toothpaste,Personal Care,10,250,2500.0,WH-A,Chattogram,Paid,Delivered,2025-05-31,2025-06-01
+147,2025-04-24,Customer_156,Tea,Foods,3,250,750.0,WH-B,Rajshahi,Pending,Pending,2025-04-28,2025-05-02
+148,2025-03-30,Customer_73,Ice Cream,Foods,17,120,2040.0,WH-C,Sylhet,Pending,Cancelled,2025-04-03,2025-04-04
+149,2025-06-03,Customer_53,Soap,Personal Care,8,350,2800.0,WH-B,Chattogram,Paid,Cancelled,2025-06-04,2025-06-05
+150,2025-01-02,Customer_111,Toothpaste,Personal Care,11,120,1320.0,WH-A,Chattogram,Pending,Pending,2025-01-06,2025-01-12
+151,2025-01-19,Customer_190,Lotion,Beauty,18,250,4500.0,WH-A,Rajshahi,Paid,Dispatched,2025-01-23,2025-01-30
+152,2025-04-20,Customer_182,Soap,Personal Care,11,500,5500.0,WH-C,Rajshahi,Pending,Delivered,2025-04-25,2025-04-29
+153,2025-02-13,Customer_213,Detergent,Home Care,1,250,250.0,WH-C,Khulna,Paid,Dispatched,2025-02-18,2025-02-22
+154,2025-04-22,Customer_135,Ice Cream,Foods,4,180,720.0,WH-A,Rajshahi,Pending,Cancelled,2025-04-27,2025-05-01
+155,2025-01-20,Customer_30,Shampoo,Personal Care,11,180,1980.0,WH-C,Sylhet,Paid,Cancelled,2025-01-25,2025-01-31
+156,2025-01-27,Customer_51,Toothpaste,Personal Care,5,180,900.0,WH-A,Sylhet,Paid,Delivered,2025-01-29,2025-02-01
+157,2025-05-25,Customer_175,Shampoo,Personal Care,16,350,5600.0,WH-C,Sylhet,Pending,Cancelled,2025-05-30,2025-06-03
+158,2025-05-01,Customer_78,Shampoo,Personal Care,15,120,1800.0,WH-B,Sylhet,Paid,Cancelled,2025-05-05,2025-05-11
+159,2025-04-29,Customer_15,Lotion,Beauty,3,250,750.0,WH-B,Khulna,Paid,Delivered,2025-05-03,2025-05-04
+160,2025-04-09,Customer_142,Lotion,Beauty,20,500,10000.0,WH-C,Dhaka,Pending,Pending,2025-04-13,2025-04-18
+161,2025-05-09,Customer_116,Toothpaste,Personal Care,20,350,7000.0,WH-A,Khulna,Failed,Delivered,2025-05-11,2025-05-12
+162,2025-03-05,Customer_135,Lotion,Beauty,6,120,720.0,WH-C,Sylhet,Paid,Cancelled,2025-03-09,2025-03-13
+163,2025-04-15,Customer_154,Toothpaste,Personal Care,10,350,3500.0,WH-A,Khulna,Paid,Cancelled,2025-04-18,2025-04-24
+164,2025-03-14,Customer_219,Soap,Personal Care,18,350,6300.0,WH-C,Sylhet,Paid,Cancelled,2025-03-17,2025-03-23
+165,2025-03-31,Customer_179,Soap,Personal Care,19,180,3420.0,WH-C,Rajshahi,Paid,Delivered,2025-04-03,2025-04-09
+166,2025-06-14,Customer_33,Toothpaste,Personal Care,18,350,6300.0,WH-C,Sylhet,Paid,Dispatched,2025-06-17,2025-06-24
+167,2025-04-03,Customer_244,Lotion,Beauty,12,120,1440.0,WH-A,Khulna,Pending,Pending,2025-04-06,2025-04-08
+168,2025-01-20,Customer_202,Shampoo,Personal Care,5,180,900.0,WH-A,Sylhet,Failed,Delivered,2025-01-23,2025-01-30
+169,2025-02-03,Customer_40,Tea,Foods,11,500,5500.0,WH-A,Chattogram,Failed,Pending,2025-02-08,2025-02-12
+170,2025-04-16,Customer_185,Tea,Foods,15,120,1800.0,WH-A,Rajshahi,Failed,Cancelled,2025-04-19,2025-04-25
+171,2025-05-17,Customer_248,Ice Cream,Foods,15,180,2700.0,WH-B,Chattogram,Pending,Dispatched,2025-05-19,2025-05-22
+172,2025-05-09,Customer_248,Detergent,Home Care,10,350,3500.0,WH-A,Chattogram,Failed,Pending,2025-05-14,2025-05-18
+173,2025-06-14,Customer_96,Ice Cream,Foods,9,120,1080.0,WH-C,Dhaka,Failed,Delivered,2025-06-18,2025-06-25
+174,2025-03-11,Customer_38,Toothpaste,Personal Care,3,180,540.0,WH-B,Dhaka,Paid,Dispatched,2025-03-15,2025-03-20
+175,2025-01-14,Customer_96,Toothpaste,Personal Care,1,350,350.0,WH-A,Rajshahi,Paid,Cancelled,2025-01-18,2025-01-23
+176,2025-01-26,Customer_38,Shampoo,Personal Care,1,250,250.0,WH-A,Dhaka,Pending,Dispatched,2025-01-29,2025-02-05
+177,2025-04-25,Customer_232,Tea,Foods,5,350,1750.0,WH-A,Dhaka,Pending,Pending,2025-04-30,2025-05-01
+178,2025-06-05,Customer_29,Ice Cream,Foods,5,500,2500.0,WH-B,Chattogram,Pending,Delivered,2025-06-10,2025-06-14
+179,2025-06-13,Customer_17,Soap,Personal Care,8,350,2800.0,WH-A,Rajshahi,Failed,Delivered,2025-06-18,2025-06-22
+180,2025-03-03,Customer_110,Tea,Foods,17,500,8500.0,WH-A,Sylhet,Pending,Pending,2025-03-05,2025-03-08
+181,2025-06-20,Customer_250,Lotion,Beauty,14,180,2520.0,WH-B,Dhaka,Failed,Delivered,2025-06-21,2025-06-26
+182,2025-06-12,Customer_65,Detergent,Home Care,16,120,1920.0,WH-C,Dhaka,Pending,Delivered,2025-06-16,2025-06-19
+183,2025-05-29,Customer_12,Toothpaste,Personal Care,8,120,960.0,WH-B,Sylhet,Pending,Pending,2025-06-01,2025-06-03
+184,2025-06-11,Customer_35,Ice Cream,Foods,15,350,5250.0,WH-A,Rajshahi,Paid,Cancelled,2025-06-13,2025-06-20
+185,2025-01-11,Customer_132,Shampoo,Personal Care,2,180,360.0,WH-B,Sylhet,Pending,Cancelled,2025-01-14,2025-01-17
+186,2025-04-02,Customer_168,Soap,Personal Care,7,250,1750.0,WH-B,Khulna,Paid,Cancelled,2025-04-03,2025-04-10
+187,2025-04-09,Customer_128,Detergent,Home Care,13,350,4550.0,WH-C,Rajshahi,Pending,Cancelled,2025-04-12,2025-04-14
+188,2025-01-21,Customer_211,Ice Cream,Foods,3,350,1050.0,WH-A,Sylhet,Pending,Cancelled,2025-01-25,2025-01-30
+189,2025-06-19,Customer_115,Soap,Personal Care,3,250,750.0,WH-C,Rajshahi,Paid,Dispatched,2025-06-22,2025-06-25
+190,2025-04-01,Customer_71,Toothpaste,Personal Care,15,120,1800.0,WH-C,Dhaka,Paid,Dispatched,2025-04-06,2025-04-10
+191,2025-01-08,Customer_156,Toothpaste,Personal Care,17,180,3060.0,WH-C,Rajshahi,Paid,Pending,2025-01-10,2025-01-17
+192,2025-04-03,Customer_9,Soap,Personal Care,8,250,2000.0,WH-C,Chattogram,Failed,Dispatched,2025-04-07,2025-04-12
+193,2025-01-20,Customer_136,Toothpaste,Personal Care,12,350,4200.0,WH-B,Rajshahi,Pending,Cancelled,2025-01-25,2025-01-27
+194,2025-02-17,Customer_100,Shampoo,Personal Care,4,120,480.0,WH-C,Dhaka,Pending,Cancelled,2025-02-21,2025-02-26
+195,2025-06-06,Customer_235,Tea,Foods,15,180,2700.0,WH-B,Chattogram,Paid,Pending,2025-06-09,2025-06-15
+196,2025-02-14,Customer_208,Ice Cream,Foods,3,350,1050.0,WH-C,Khulna,Failed,Cancelled,2025-02-18,2025-02-19
+197,2025-05-19,Customer_218,Tea,Foods,3,500,1500.0,WH-A,Chattogram,Pending,Pending,2025-05-22,2025-05-25
+198,2025-03-02,Customer_93,Soap,Personal Care,7,180,1260.0,WH-C,Sylhet,Pending,Dispatched,2025-03-06,2025-03-07
+199,2025-06-06,Customer_80,Ice Cream,Foods,18,180,3240.0,WH-B,Rajshahi,Failed,Dispatched,2025-06-07,2025-06-08
+200,2025-01-19,Customer_165,Ice Cream,Foods,14,500,7000.0,WH-A,Rajshahi,Pending,Cancelled,2025-01-21,2025-01-24
+201,2025-02-16,Customer_129,Shampoo,Personal Care,18,500,9000.0,WH-A,Dhaka,Failed,Pending,2025-02-18,2025-02-22
+202,2025-03-24,Customer_243,Toothpaste,Personal Care,6,180,1080.0,WH-C,Khulna,Paid,Cancelled,2025-03-26,2025-03-29
+203,2025-02-02,Customer_137,Shampoo,Personal Care,18,250,4500.0,WH-A,Sylhet,,Pending,2025-02-05,2025-02-10
+204,2025-02-13,Customer_231,Lotion,Beauty,19,180,3420.0,WH-C,Khulna,Failed,Delivered,2025-02-18,2025-02-24
+205,2025-01-12,Customer_167,Ice Cream,Foods,1,120,120.0,WH-A,Sylhet,Pending,Delivered,2025-01-17,2025-01-20
+206,2025-06-14,Customer_63,Detergent,Home Care,18,250,4500.0,WH-C,Rajshahi,Pending,Dispatched,2025-06-17,2025-06-21
+207,2025-04-23,Customer_119,Soap,Personal Care,2,180,360.0,WH-A,Khulna,Failed,Pending,2025-04-27,2025-05-01
+208,2025-04-13,Customer_95,Toothpaste,Personal Care,11,250,2750.0,WH-C,Sylhet,Paid,Cancelled,2025-04-15,2025-04-22
+209,2025-03-10,Customer_37,Shampoo,Personal Care,15,120,1800.0,WH-A,Dhaka,Pending,Dispatched,2025-03-14,2025-03-16
+210,2025-03-05,Customer_84,Ice Cream,Foods,20,350,7000.0,WH-C,Khulna,Paid,Pending,2025-03-07,2025-03-14
+211,2025-05-08,Customer_6,Detergent,Home Care,17,350,5950.0,WH-A,Rajshahi,Failed,Dispatched,2025-05-11,2025-05-15
+212,2025-04-01,Customer_73,Shampoo,Personal Care,7,500,3500.0,WH-B,Sylhet,Failed,Dispatched,2025-04-02,2025-04-03
+213,2025-01-28,Customer_226,Toothpaste,Personal Care,18,120,2160.0,WH-B,Khulna,Pending,Cancelled,2025-02-01,2025-02-03
+214,2025-05-26,Customer_93,Soap,Personal Care,13,120,1560.0,WH-C,Khulna,Paid,Dispatched,2025-05-31,2025-06-02
+215,2025-03-13,Customer_157,Lotion,Beauty,15,500,7500.0,WH-A,Chattogram,Paid,Dispatched,2025-03-18,2025-03-24
+216,2025-04-04,Customer_155,Toothpaste,Personal Care,11,500,5500.0,WH-C,Rajshahi,Failed,Delivered,2025-04-06,2025-04-08
+217,2025-03-27,Customer_117,Soap,Personal Care,2,180,360.0,WH-A,Sylhet,Failed,Pending,2025-03-31,2025-04-05
+218,2025-02-11,Customer_190,Toothpaste,Personal Care,20,250,5000.0,WH-B,Sylhet,Pending,Dispatched,2025-02-15,2025-02-20
+219,2025-05-02,Customer_85,Tea,Foods,19,250,4750.0,WH-C,Dhaka,Pending,Cancelled,2025-05-03,2025-05-06
+220,2025-05-02,Customer_201,Ice Cream,Foods,1,500,500.0,WH-C,Sylhet,Paid,Delivered,2025-05-05,2025-05-11
+221,2025-05-15,Customer_216,Lotion,Beauty,16,180,2880.0,WH-B,Chattogram,Failed,Pending,2025-05-20,2025-05-27
+222,2025-02-18,Customer_81,Soap,Personal Care,19,120,2280.0,WH-B,Chattogram,Pending,Pending,2025-02-19,2025-02-23
+223,2025-05-01,Customer_36,Detergent,Home Care,17,500,8500.0,WH-C,Chattogram,Failed,Cancelled,2025-05-02,2025-05-08
+224,2025-04-07,Customer_118,Tea,Foods,16,500,8000.0,WH-C,Khulna,Failed,Cancelled,2025-04-10,2025-04-12
+225,2025-05-04,Customer_72,Tea,Foods,9,500,4500.0,WH-C,Khulna,Paid,Cancelled,2025-05-06,2025-05-08
+226,2025-06-26,Customer_123,Ice Cream,Foods,10,180,1800.0,WH-B,Sylhet,Failed,Cancelled,2025-06-30,2025-07-03
+227,2025-06-23,Customer_230,Toothpaste,Personal Care,4,500,2000.0,WH-B,Khulna,,Cancelled,2025-06-28,2025-07-02
+228,2025-03-30,Customer_66,Soap,Personal Care,10,120,1200.0,WH-C,Rajshahi,Paid,Pending,2025-04-03,2025-04-09
+229,2025-05-24,Customer_28,Ice Cream,Foods,18,250,4500.0,WH-C,Sylhet,Paid,Pending,2025-05-27,2025-05-29
+230,2025-06-13,Customer_26,Soap,Personal Care,17,180,3060.0,WH-B,Khulna,Failed,Dispatched,2025-06-15,2025-06-16
+231,2025-05-21,Customer_168,Soap,Personal Care,5,120,600.0,WH-B,Rajshahi,Failed,Pending,2025-05-23,2025-05-27
+232,2025-03-15,Customer_23,Ice Cream,Foods,10,250,2500.0,WH-C,Sylhet,Paid,Delivered,2025-03-16,2025-03-23
+233,2025-01-10,Customer_127,Shampoo,Personal Care,14,180,2520.0,WH-A,Khulna,Paid,Delivered,2025-01-14,2025-01-21
+234,2025-01-28,Customer_117,Toothpaste,Personal Care,19,500,9500.0,WH-C,Sylhet,Failed,Dispatched,2025-01-31,2025-02-03
+235,2025-03-11,Customer_29,Shampoo,Personal Care,17,350,5950.0,WH-B,Chattogram,Failed,Dispatched,2025-03-13,2025-03-20
+236,2025-01-04,Customer_76,Tea,Foods,9,180,1620.0,WH-C,Chattogram,Paid,Dispatched,2025-01-07,2025-01-14
+237,2025-03-25,Customer_172,Ice Cream,Foods,14,500,7000.0,WH-A,Chattogram,Paid,Dispatched,2025-03-26,2025-03-30
+238,2025-03-08,Customer_115,Toothpaste,Personal Care,8,120,960.0,WH-B,Khulna,Pending,Delivered,2025-03-12,2025-03-14
+239,2025-01-16,Customer_79,Toothpaste,Personal Care,12,180,2160.0,WH-A,Rajshahi,Failed,Cancelled,2025-01-17,2025-01-21
+240,2025-04-05,Customer_57,Tea,Foods,4,250,1000.0,WH-A,Rajshahi,Paid,Dispatched,2025-04-10,2025-04-12
+241,2025-04-17,Customer_194,Tea,Foods,20,250,5000.0,WH-C,Chattogram,Paid,Delivered,2025-04-22,2025-04-26
+242,2025-06-30,Customer_235,Lotion,Beauty,15,500,7500.0,WH-C,Dhaka,Paid,Pending,2025-07-03,2025-07-04
+243,2025-02-12,Customer_134,Lotion,Beauty,18,180,3240.0,WH-B,Dhaka,Failed,Pending,2025-02-15,2025-02-22
+244,2025-01-24,Customer_208,Tea,Foods,19,350,6650.0,WH-A,Rajshahi,Paid,Dispatched,2025-01-29,2025-02-02
+245,2025-05-24,Customer_207,Detergent,Home Care,19,120,2280.0,WH-B,Dhaka,Pending,Cancelled,2025-05-28,2025-06-03
+246,2025-05-29,Customer_109,Ice Cream,Foods,1,180,180.0,WH-B,Dhaka,Failed,Delivered,2025-05-30,2025-05-31
+247,2025-03-15,,Soap,Personal Care,16,120,1920.0,WH-A,Rajshahi,Pending,Dispatched,,2025-03-21
+248,2025-01-21,Customer_168,Detergent,Home Care,13,350,4550.0,WH-B,Dhaka,Paid,Dispatched,2025-01-26,2025-01-28
+249,2025-01-01,Customer_119,Lotion,Beauty,5,180,900.0,WH-C,Sylhet,Pending,Dispatched,2025-01-02,2025-01-05
+250,2025-04-28,Customer_71,Ice Cream,Foods,8,180,1440.0,,Dhaka,Paid,Dispatched,2025-05-01,2025-05-03
+251,2025-02-22,Customer_153,Lotion,Beauty,1,180,180.0,WH-A,Rajshahi,Failed,Delivered,2025-02-23,2025-02-24
+252,2025-04-23,Customer_56,Shampoo,Personal Care,2,350,700.0,WH-A,Chattogram,Failed,Cancelled,2025-04-25,2025-04-30
+253,2025-05-28,Customer_173,Shampoo,Personal Care,19,250,4750.0,WH-B,Chattogram,Pending,Pending,2025-06-02,2025-06-09
+254,2025-04-16,Customer_16,Tea,Foods,17,180,3060.0,WH-C,Sylhet,Failed,Pending,2025-04-19,2025-04-22
+255,2025-05-07,Customer_242,Tea,Foods,14,500,7000.0,WH-C,Rajshahi,Failed,Cancelled,2025-05-08,2025-05-11
+256,2025-02-08,Customer_48,Tea,Foods,14,350,4900.0,,Rajshahi,Paid,Pending,2025-02-11,2025-02-15
+257,2025-01-15,Customer_248,Toothpaste,Personal Care,5,350,1750.0,WH-B,Sylhet,Failed,Pending,2025-01-20,2025-01-24
+258,2025-02-22,Customer_21,Detergent,Home Care,8,250,2000.0,WH-B,Khulna,Paid,Pending,2025-02-25,2025-03-03
+259,2025-06-22,Customer_11,Soap,Personal Care,9,350,3150.0,WH-A,Chattogram,Failed,Pending,2025-06-27,2025-07-02
+260,2025-03-19,Customer_240,Detergent,Home Care,7,250,1750.0,WH-A,Dhaka,Failed,Dispatched,2025-03-20,2025-03-22
+261,2025-04-12,Customer_83,Shampoo,Personal Care,20,180,3600.0,WH-B,Rajshahi,Pending,Cancelled,2025-04-14,2025-04-19
+262,2025-05-12,Customer_26,Toothpaste,Personal Care,9,250,2250.0,WH-C,Rajshahi,Pending,Pending,2025-05-16,2025-05-20
+263,2025-01-12,Customer_57,Toothpaste,Personal Care,11,350,3850.0,WH-C,Chattogram,Paid,Cancelled,2025-01-17,2025-01-24
+264,2025-04-17,Customer_51,Lotion,Beauty,19,500,9500.0,WH-B,Chattogram,Pending,Pending,2025-04-20,2025-04-22
+265,2025-03-07,,Detergent,Home Care,18,250,4500.0,WH-C,Rajshahi,Pending,Pending,,2025-03-17
+266,2025-02-05,Customer_48,Tea,Foods,12,180,2160.0,WH-C,Dhaka,Failed,Delivered,2025-02-10,2025-02-14
+267,2025-01-02,Customer_216,Ice Cream,Foods,3,120,360.0,WH-C,Chattogram,Paid,Pending,2025-01-06,2025-01-08
+268,2025-04-27,Customer_159,Soap,Personal Care,7,500,3500.0,WH-C,Sylhet,Pending,Dispatched,2025-04-30,2025-05-01
+269,2025-05-22,Customer_5,Soap,Personal Care,1,500,500.0,WH-C,Khulna,Failed,Cancelled,2025-05-26,2025-05-27
+270,2025-02-15,Customer_135,Soap,Personal Care,17,350,5950.0,WH-A,Chattogram,Paid,Cancelled,2025-02-16,2025-02-17
+271,2025-04-12,Customer_246,Ice Cream,Foods,12,250,3000.0,WH-B,Rajshahi,Failed,Pending,2025-04-13,2025-04-16
+272,2025-06-25,Customer_220,Tea,Foods,8,250,2000.0,WH-C,Dhaka,Paid,Dispatched,2025-06-26,2025-07-02
+273,2025-05-02,Customer_3,Detergent,Home Care,13,500,6500.0,WH-C,Chattogram,Paid,Dispatched,2025-05-03,2025-05-09
+274,2025-05-25,Customer_236,Ice Cream,Foods,14,250,3500.0,WH-A,Chattogram,Paid,Dispatched,2025-05-26,2025-05-31
+275,2025-06-25,Customer_145,Toothpaste,Personal Care,2,120,240.0,WH-C,Dhaka,Paid,Cancelled,2025-06-28,2025-07-03
+276,2025-02-06,Customer_77,Soap,Personal Care,7,500,3500.0,WH-A,Sylhet,Paid,Dispatched,2025-02-10,2025-02-11
+277,2025-04-09,Customer_177,Tea,Foods,18,250,4500.0,WH-C,Dhaka,Failed,Cancelled,2025-04-11,2025-04-18
+278,2025-03-01,,Soap,Personal Care,4,350,1400.0,WH-C,Sylhet,Pending,Cancelled,,2025-03-05
+279,2025-05-06,Customer_142,Soap,Personal Care,9,350,3150.0,WH-B,Rajshahi,Paid,Dispatched,2025-05-08,2025-05-11
+280,2025-03-05,Customer_69,Soap,Personal Care,20,250,5000.0,WH-A,Rajshahi,Failed,Pending,2025-03-06,2025-03-07
+281,2025-04-03,Customer_2,Tea,Foods,13,250,3250.0,WH-B,Rajshahi,Pending,Cancelled,2025-04-04,2025-04-05
+282,2025-02-17,Customer_143,Soap,Personal Care,5,120,600.0,WH-C,Sylhet,Pending,Delivered,2025-02-21,2025-02-25
+283,2025-05-22,Customer_154,Soap,Personal Care,3,250,750.0,WH-B,Rajshahi,Paid,Cancelled,2025-05-23,2025-05-28
+284,2025-05-24,Customer_134,Detergent,Home Care,13,120,1560.0,WH-A,Rajshahi,Paid,Pending,2025-05-26,2025-05-31
+285,2025-05-07,Customer_43,Toothpaste,Personal Care,10,250,2500.0,WH-B,Khulna,Pending,Cancelled,2025-05-09,2025-05-10
+286,2025-03-06,Customer_161,Detergent,Home Care,3,250,750.0,WH-B,Sylhet,Failed,Pending,2025-03-08,2025-03-14
+287,2025-03-19,Customer_86,Detergent,Home Care,4,180,720.0,WH-C,Rajshahi,Pending,Dispatched,2025-03-20,2025-03-24
+288,2025-02-04,Customer_155,Toothpaste,Personal Care,14,500,7000.0,WH-C,Chattogram,Pending,Cancelled,2025-02-07,2025-02-10
+289,2025-03-16,Customer_201,Shampoo,Personal Care,13,250,3250.0,WH-A,Khulna,Pending,Cancelled,2025-03-20,2025-03-25
+290,2025-01-30,Customer_152,Ice Cream,Foods,13,250,3250.0,WH-C,Chattogram,Failed,Delivered,2025-02-04,2025-02-06
+291,2025-04-23,Customer_178,Tea,Foods,15,180,2700.0,WH-A,Rajshahi,Failed,Dispatched,2025-04-26,2025-05-03
+292,2025-03-06,Customer_109,Shampoo,Personal Care,10,180,1800.0,WH-B,Dhaka,Pending,Dispatched,2025-03-08,2025-03-14
+293,2025-05-10,Customer_10,Lotion,Beauty,13,500,6500.0,WH-B,Sylhet,Failed,Delivered,2025-05-14,2025-05-19
+294,2025-02-12,Customer_145,Soap,Personal Care,8,250,2000.0,WH-C,Rajshahi,Pending,Dispatched,2025-02-17,2025-02-18
+295,2025-03-08,Customer_192,Soap,Personal Care,1,120,120.0,WH-C,Sylhet,Failed,Pending,2025-03-10,2025-03-15
+296,2025-04-29,Customer_129,Detergent,Home Care,12,350,4200.0,WH-A,Khulna,Paid,Dispatched,2025-05-04,2025-05-10
+297,2025-01-22,Customer_241,Soap,Personal Care,10,350,3500.0,WH-C,Chattogram,Pending,Cancelled,2025-01-23,2025-01-30
+298,2025-05-14,Customer_122,Toothpaste,Personal Care,15,180,2700.0,WH-A,Rajshahi,Failed,Dispatched,2025-05-18,2025-05-21
+299,2025-01-12,Customer_218,Toothpaste,Personal Care,3,250,750.0,WH-B,Dhaka,Failed,Pending,2025-01-13,2025-01-14
+300,2025-02-14,Customer_85,Tea,Foods,8,500,4000.0,WH-C,Rajshahi,Pending,Pending,2025-02-19,2025-02-21
+301,2025-02-17,Customer_8,Ice Cream,Foods,13,180,2340.0,WH-C,Sylhet,Paid,Dispatched,2025-02-21,2025-02-25
+302,2025-01-02,Customer_72,Lotion,Beauty,14,350,4900.0,WH-C,Dhaka,Failed,Delivered,2025-01-04,2025-01-06
+303,2025-04-04,Customer_118,Ice Cream,Foods,18,180,3240.0,WH-A,Khulna,Failed,Dispatched,2025-04-07,2025-04-09
+304,2025-04-10,Customer_151,Lotion,Beauty,11,500,5500.0,WH-A,Khulna,Pending,Dispatched,2025-04-15,2025-04-19
+305,2025-06-07,Customer_173,Lotion,Beauty,6,250,1500.0,WH-A,Khulna,Paid,Pending,2025-06-12,2025-06-13
+306,2025-04-06,Customer_100,Toothpaste,Personal Care,4,180,720.0,WH-B,Sylhet,Paid,Dispatched,2025-04-08,2025-04-13
+307,2025-06-12,Customer_236,Detergent,Home Care,6,350,2100.0,WH-C,Chattogram,Failed,Pending,2025-06-17,2025-06-23
+308,2025-02-17,Customer_116,Detergent,Home Care,10,180,1800.0,WH-C,Dhaka,Pending,Delivered,2025-02-20,2025-02-27
+309,2025-04-09,Customer_168,Detergent,Home Care,5,180,900.0,WH-B,Rajshahi,Failed,Dispatched,2025-04-14,2025-04-19
+310,2025-02-12,Customer_8,Detergent,Home Care,15,350,5250.0,WH-A,Khulna,Paid,Cancelled,2025-02-13,2025-02-18
+311,2025-02-13,Customer_191,Shampoo,Personal Care,18,250,4500.0,WH-B,Sylhet,Failed,Delivered,2025-02-17,2025-02-22
+312,2025-05-20,Customer_211,Lotion,Beauty,4,250,1000.0,WH-A,Rajshahi,Failed,Pending,2025-05-23,2025-05-28
+313,2025-03-18,Customer_68,Detergent,Home Care,4,180,720.0,WH-B,Dhaka,Pending,Delivered,2025-03-19,2025-03-23
+314,2025-05-31,Customer_182,Ice Cream,Foods,8,180,1440.0,WH-C,Rajshahi,Paid,Pending,2025-06-03,2025-06-10
+315,2025-01-16,Customer_137,Ice Cream,Foods,7,180,1260.0,WH-B,Sylhet,Failed,Pending,2025-01-21,2025-01-24
+316,2025-05-27,Customer_132,Toothpaste,Personal Care,10,250,2500.0,WH-C,Dhaka,Paid,Dispatched,2025-05-30,2025-06-06
+317,2025-06-29,Customer_38,Soap,Personal Care,9,180,1620.0,WH-C,Khulna,Paid,Dispatched,2025-07-01,2025-07-03
+318,2025-06-11,Customer_107,Detergent,Home Care,5,500,2500.0,WH-B,Rajshahi,Paid,Delivered,2025-06-14,2025-06-20
+319,2025-06-27,Customer_244,Detergent,Home Care,17,250,4250.0,WH-B,Khulna,Failed,Delivered,2025-06-30,2025-07-04
+320,2025-06-12,Customer_17,Ice Cream,Foods,3,350,1050.0,WH-C,Rajshahi,Paid,Dispatched,2025-06-15,2025-06-22
+321,2025-03-10,Customer_73,Ice Cream,Foods,7,350,2450.0,WH-B,Sylhet,Failed,Pending,2025-03-13,2025-03-20
+322,2025-06-24,Customer_26,Lotion,Beauty,16,250,4000.0,WH-C,Rajshahi,Paid,Delivered,2025-06-25,2025-06-26
+323,2025-04-27,Customer_52,Ice Cream,Foods,6,350,2100.0,WH-C,Chattogram,Failed,Cancelled,2025-04-28,2025-05-02
+324,2025-06-17,Customer_22,Shampoo,Personal Care,9,120,1080.0,WH-B,Chattogram,Paid,Dispatched,2025-06-20,2025-06-23
+325,2025-04-20,Customer_25,Tea,Foods,10,180,1800.0,WH-A,Chattogram,Pending,Delivered,2025-04-21,2025-04-27
+326,2025-05-13,Customer_3,Shampoo,Personal Care,19,180,3420.0,WH-C,Khulna,Paid,Dispatched,2025-05-17,2025-05-18
+327,2025-01-19,Customer_23,Tea,Foods,5,350,1750.0,WH-C,Dhaka,Paid,Cancelled,2025-01-21,2025-01-25
+328,2025-04-08,Customer_174,Toothpaste,Personal Care,10,180,1800.0,WH-A,Dhaka,Failed,Delivered,2025-04-10,2025-04-16
+329,2025-03-31,Customer_192,Lotion,Beauty,6,350,2100.0,WH-A,Rajshahi,Failed,Dispatched,2025-04-02,2025-04-08
+330,2025-01-26,Customer_32,Ice Cream,Foods,7,120,840.0,WH-C,Rajshahi,Pending,Dispatched,2025-01-28,2025-02-04
+331,2025-03-12,Customer_142,Toothpaste,Personal Care,5,180,900.0,WH-C,Sylhet,Failed,Cancelled,2025-03-13,2025-03-15
+332,2025-02-22,Customer_131,Ice Cream,Foods,1,250,250.0,WH-A,Rajshahi,Pending,Delivered,2025-02-27,2025-03-04
+333,2025-04-09,Customer_128,Ice Cream,Foods,8,350,2800.0,WH-C,Sylhet,Paid,Delivered,2025-04-10,2025-04-12
+334,2025-04-10,Customer_94,Toothpaste,Personal Care,11,180,1980.0,WH-C,Chattogram,Pending,Delivered,2025-04-15,2025-04-19
+335,2025-01-04,Customer_11,Soap,Personal Care,19,120,2280.0,WH-A,Rajshahi,Failed,Cancelled,2025-01-07,2025-01-09
+336,2025-04-19,Customer_164,Tea,Foods,17,350,5950.0,WH-C,Sylhet,Failed,Pending,2025-04-23,2025-04-24
+337,2025-01-21,Customer_250,Toothpaste,Personal Care,3,250,750.0,WH-A,Sylhet,Pending,Dispatched,2025-01-26,2025-01-28
+338,2025-06-28,Customer_245,Lotion,Beauty,3,250,750.0,WH-A,Dhaka,Paid,Delivered,2025-07-02,2025-07-08
+339,2025-06-06,Customer_80,Detergent,Home Care,4,350,1400.0,WH-C,Chattogram,Paid,Delivered,2025-06-11,2025-06-12
+340,2025-02-11,Customer_134,Tea,Foods,5,120,600.0,WH-C,Khulna,Paid,Cancelled,2025-02-15,2025-02-18
+341,2025-01-08,Customer_110,Shampoo,Personal Care,9,120,1080.0,WH-B,Sylhet,Paid,Cancelled,2025-01-11,2025-01-18
+342,2025-05-08,Customer_93,Tea,Foods,19,120,2280.0,WH-A,Rajshahi,Failed,Pending,2025-05-12,2025-05-17
+343,2025-01-27,Customer_186,Toothpaste,Personal Care,6,250,1500.0,WH-A,Chattogram,Failed,Delivered,2025-02-01,2025-02-07
+344,2025-01-12,Customer_99,Soap,Personal Care,1,180,180.0,WH-A,Chattogram,Paid,Dispatched,2025-01-16,2025-01-19
+345,2025-04-17,Customer_212,Shampoo,Personal Care,11,180,1980.0,WH-A,Sylhet,Pending,Delivered,2025-04-20,2025-04-23
+346,2025-02-27,Customer_245,Lotion,Beauty,2,180,360.0,WH-B,Dhaka,Pending,Cancelled,2025-03-04,2025-03-05
+347,2025-01-23,Customer_3,Ice Cream,Foods,10,250,2500.0,WH-B,Chattogram,Pending,Cancelled,2025-01-28,2025-02-01
+348,2025-04-29,Customer_249,Tea,Foods,20,180,3600.0,WH-B,Chattogram,Failed,Pending,2025-05-02,2025-05-07
+349,2025-01-07,Customer_89,Shampoo,Personal Care,1,350,350.0,WH-C,Dhaka,Pending,Delivered,2025-01-09,2025-01-14
+350,2025-01-27,Customer_61,Ice Cream,Foods,13,250,3250.0,WH-B,Rajshahi,Paid,Pending,2025-01-29,2025-02-03
+351,2025-01-12,Customer_134,Tea,Foods,9,120,1080.0,WH-B,Khulna,Pending,Delivered,2025-01-14,2025-01-21
+352,2025-02-04,Customer_152,Lotion,Beauty,4,500,2000.0,WH-C,Dhaka,Pending,Pending,2025-02-08,2025-02-09
+353,2025-03-22,Customer_213,Shampoo,Personal Care,10,250,2500.0,WH-C,Khulna,Pending,Dispatched,2025-03-26,2025-04-01
+354,2025-02-21,Customer_198,Toothpaste,Personal Care,8,120,960.0,WH-C,Dhaka,Paid,Delivered,2025-02-23,2025-03-02
+355,2025-03-22,Customer_138,Shampoo,Personal Care,15,350,5250.0,WH-B,Chattogram,Pending,Cancelled,2025-03-26,2025-03-27
+356,2025-01-24,Customer_176,Detergent,Home Care,9,120,1080.0,WH-B,Sylhet,Paid,Pending,2025-01-26,2025-02-02
+357,2025-01-24,Customer_102,Ice Cream,Foods,11,180,1980.0,WH-C,Dhaka,Failed,Cancelled,2025-01-26,2025-01-29
+358,2025-04-14,Customer_192,Toothpaste,Personal Care,6,120,720.0,WH-C,Chattogram,Paid,Dispatched,2025-04-18,2025-04-23
+359,2025-01-04,Customer_200,Soap,Personal Care,5,120,600.0,WH-A,Chattogram,Paid,Dispatched,2025-01-05,2025-01-12
+360,2025-05-31,Customer_20,Toothpaste,Personal Care,3,500,1500.0,WH-A,Dhaka,Paid,Dispatched,2025-06-03,2025-06-10
+361,2025-03-26,Customer_242,Ice Cream,Foods,5,120,600.0,WH-B,Dhaka,Paid,Dispatched,2025-03-27,2025-03-28
+362,2025-01-08,Customer_110,Ice Cream,Foods,13,350,4550.0,WH-A,Khulna,Paid,Pending,2025-01-12,2025-01-18
+363,2025-02-08,Customer_159,Toothpaste,Personal Care,9,350,3150.0,WH-C,Chattogram,Failed,Cancelled,2025-02-09,2025-02-14
+364,2025-05-03,Customer_72,Detergent,Home Care,14,500,7000.0,WH-B,Chattogram,Pending,Pending,2025-05-04,2025-05-05
+365,2025-06-11,Customer_5,Tea,Foods,17,180,3060.0,WH-B,Khulna,Pending,Dispatched,2025-06-16,2025-06-23
+366,2025-03-24,Customer_47,Toothpaste,Personal Care,19,500,9500.0,WH-A,Khulna,Failed,Pending,2025-03-28,2025-03-31
+367,2025-05-01,Customer_197,Soap,Personal Care,9,120,1080.0,WH-C,Chattogram,Paid,Delivered,2025-05-06,2025-05-09
+368,2025-05-17,Customer_243,Shampoo,Personal Care,8,250,2000.0,WH-A,Sylhet,Pending,Cancelled,2025-05-18,2025-05-25
+369,2025-03-02,Customer_207,Ice Cream,Foods,6,180,1080.0,WH-C,Khulna,Failed,Delivered,2025-03-07,2025-03-10
+370,2025-05-25,Customer_243,Tea,Foods,12,500,6000.0,WH-A,Rajshahi,Failed,Cancelled,2025-05-27,2025-06-01
+371,2025-01-24,Customer_155,Shampoo,Personal Care,16,120,1920.0,WH-A,Dhaka,Failed,Dispatched,2025-01-25,2025-01-27
+372,2025-02-21,Customer_184,Soap,Personal Care,11,500,5500.0,WH-A,Khulna,Paid,Delivered,2025-02-23,2025-02-26
+373,2025-01-29,Customer_94,Shampoo,Personal Care,19,180,3420.0,WH-A,Khulna,Failed,Dispatched,2025-02-03,2025-02-10
+374,2025-03-19,Customer_250,Lotion,Beauty,4,250,1000.0,WH-A,Rajshahi,Failed,Dispatched,2025-03-22,2025-03-24
+375,2025-05-24,Customer_92,Tea,Foods,11,180,1980.0,WH-A,Sylhet,Paid,Dispatched,2025-05-29,2025-06-05
+376,2025-02-15,Customer_243,Toothpaste,Personal Care,10,180,1800.0,WH-C,Rajshahi,Failed,Delivered,2025-02-16,2025-02-22
+377,2025-06-06,Customer_145,Shampoo,Personal Care,20,250,5000.0,WH-A,Rajshahi,Paid,Cancelled,2025-06-08,2025-06-14
+378,2025-03-30,Customer_163,Tea,Foods,3,180,540.0,WH-A,Khulna,Pending,Delivered,2025-04-02,2025-04-04
+379,2025-06-27,Customer_66,Toothpaste,Personal Care,7,180,1260.0,WH-A,Dhaka,Paid,Dispatched,2025-06-28,2025-07-01
+380,2025-04-16,Customer_90,Detergent,Home Care,14,180,2520.0,WH-C,Rajshahi,Paid,Dispatched,2025-04-20,2025-04-24
+381,2025-02-11,Customer_205,Ice Cream,Foods,19,180,3420.0,WH-A,Khulna,Paid,Cancelled,2025-02-15,2025-02-16
+382,2025-03-29,Customer_42,Toothpaste,Personal Care,4,120,480.0,WH-C,Dhaka,Failed,Delivered,2025-03-31,2025-04-04
+383,2025-05-04,Customer_242,Toothpaste,Personal Care,20,500,10000.0,WH-C,Chattogram,Failed,Dispatched,2025-05-05,2025-05-09
+384,2025-03-26,Customer_105,Shampoo,Personal Care,2,120,240.0,WH-C,Sylhet,Failed,Cancelled,2025-03-28,2025-03-30
+385,2025-03-02,Customer_101,Tea,Foods,10,250,2500.0,WH-C,Sylhet,Pending,Pending,2025-03-03,2025-03-04
+386,2025-04-20,Customer_211,Soap,Personal Care,12,120,1440.0,WH-C,Sylhet,Pending,Pending,2025-04-21,2025-04-24
+387,2025-02-13,Customer_122,Soap,Personal Care,1,180,180.0,WH-A,Khulna,Pending,Dispatched,2025-02-16,2025-02-17
+388,2025-06-14,Customer_48,Detergent,Home Care,9,120,1080.0,WH-B,Rajshahi,Pending,Pending,2025-06-19,2025-06-23
+389,2025-04-23,Customer_58,Detergent,Home Care,2,250,500.0,WH-B,Sylhet,Paid,Pending,2025-04-27,2025-04-30
+390,2025-06-21,Customer_139,Ice Cream,Foods,4,120,480.0,WH-B,Sylhet,Paid,Delivered,2025-06-24,2025-07-01
+391,2025-04-18,Customer_222,Ice Cream,Foods,13,500,6500.0,,Sylhet,Paid,Dispatched,2025-04-23,2025-04-29
+392,2025-01-09,Customer_231,Toothpaste,Personal Care,3,350,1050.0,WH-C,Sylhet,Failed,Pending,2025-01-14,2025-01-19
+393,2025-02-12,Customer_50,Soap,Personal Care,15,180,2700.0,WH-A,Dhaka,Pending,Delivered,2025-02-14,2025-02-21
+394,2025-06-10,Customer_153,Tea,Foods,14,180,2520.0,WH-B,Khulna,Failed,Delivered,2025-06-12,2025-06-19
+395,2025-04-12,Customer_220,Soap,Personal Care,13,500,6500.0,WH-B,Sylhet,Pending,Delivered,2025-04-17,2025-04-20
+396,2025-05-14,Customer_107,Ice Cream,Foods,20,500,10000.0,WH-A,Chattogram,Failed,Delivered,2025-05-18,2025-05-19
+397,2025-03-15,Customer_225,Soap,Personal Care,19,120,2280.0,WH-B,Khulna,Pending,Dispatched,2025-03-20,2025-03-23
+398,2025-01-10,Customer_104,Lotion,Beauty,20,350,7000.0,WH-A,Sylhet,Failed,Dispatched,2025-01-12,2025-01-15
+399,2025-06-26,Customer_191,Soap,Personal Care,13,250,3250.0,WH-B,Khulna,Pending,Delivered,2025-06-28,2025-06-29
+400,2025-03-13,Customer_179,Toothpaste,Personal Care,10,250,2500.0,WH-C,Dhaka,Paid,Pending,2025-03-17,2025-03-24
+401,2025-03-10,Customer_166,Toothpaste,Personal Care,15,250,3750.0,WH-A,Chattogram,Pending,Pending,2025-03-14,2025-03-19
+402,2025-05-13,Customer_15,Ice Cream,Foods,14,350,4900.0,WH-C,Chattogram,Paid,Cancelled,2025-05-16,2025-05-23
+403,2025-02-04,Customer_8,Tea,Foods,17,350,5950.0,WH-A,Chattogram,Paid,Delivered,2025-02-09,2025-02-14
+404,2025-01-13,Customer_51,Shampoo,Personal Care,2,350,700.0,WH-B,Khulna,Pending,Dispatched,2025-01-16,2025-01-22
+405,2025-03-03,Customer_153,Tea,Foods,4,120,480.0,WH-B,Chattogram,Pending,Cancelled,2025-03-06,2025-03-10
+406,2025-06-26,Customer_8,Toothpaste,Personal Care,6,250,1500.0,WH-B,Dhaka,Paid,Pending,2025-06-27,2025-06-30
+407,2025-06-23,Customer_167,Ice Cream,Foods,8,180,1440.0,WH-B,Sylhet,Paid,Delivered,2025-06-25,2025-06-28
+408,2025-06-03,Customer_65,Detergent,Home Care,5,180,900.0,WH-C,Khulna,Failed,Cancelled,2025-06-04,2025-06-06
+409,2025-04-28,Customer_120,Detergent,Home Care,13,250,3250.0,,Sylhet,Failed,Dispatched,2025-05-01,2025-05-03
+410,2025-05-11,Customer_166,Lotion,Beauty,4,120,480.0,WH-C,Sylhet,Pending,Cancelled,2025-05-14,2025-05-19
+411,2025-01-17,Customer_164,Tea,Foods,4,350,1400.0,WH-B,Khulna,Pending,Cancelled,2025-01-20,2025-01-23
+412,2025-03-03,Customer_220,Shampoo,Personal Care,5,500,2500.0,WH-C,Rajshahi,Failed,Cancelled,2025-03-04,2025-03-11
+413,2025-06-17,Customer_67,Tea,Foods,5,120,600.0,WH-B,Rajshahi,Pending,Delivered,2025-06-21,2025-06-24
+414,2025-03-29,Customer_137,Lotion,Beauty,19,180,3420.0,WH-C,Rajshahi,Failed,Cancelled,2025-03-31,2025-04-06
+415,2025-06-18,Customer_76,Lotion,Beauty,10,180,1800.0,WH-A,Rajshahi,Paid,Cancelled,2025-06-23,2025-06-25
+416,2025-06-24,Customer_23,Tea,Foods,18,180,3240.0,WH-A,Khulna,Paid,Cancelled,2025-06-27,2025-07-03
+417,2025-03-08,Customer_119,Detergent,Home Care,11,250,2750.0,WH-A,Rajshahi,Paid,Delivered,2025-03-13,2025-03-16
+418,2025-01-31,Customer_77,Detergent,Home Care,7,500,3500.0,WH-B,Dhaka,Paid,Pending,2025-02-04,2025-02-09
+419,2025-05-26,Customer_81,Shampoo,Personal Care,11,350,3850.0,WH-C,Chattogram,Paid,Dispatched,2025-05-30,2025-06-01
+420,2025-06-12,Customer_116,Toothpaste,Personal Care,6,250,1500.0,WH-B,Chattogram,Paid,Pending,2025-06-13,2025-06-14
+421,2025-06-07,Customer_110,Detergent,Home Care,3,180,540.0,WH-B,Rajshahi,Pending,Dispatched,2025-06-11,2025-06-17
+422,2025-02-21,Customer_229,Soap,Personal Care,2,500,1000.0,WH-B,Sylhet,Paid,Delivered,2025-02-24,2025-02-25
+423,2025-02-27,Customer_34,Tea,Foods,1,180,180.0,WH-A,Rajshahi,Failed,Cancelled,2025-03-02,2025-03-05
+424,2025-03-18,Customer_187,Shampoo,Personal Care,3,120,360.0,WH-C,Sylhet,Failed,Cancelled,2025-03-21,2025-03-25
+425,2025-05-06,Customer_49,Detergent,Home Care,5,250,1250.0,WH-A,Rajshahi,Paid,Pending,2025-05-09,2025-05-16
+426,2025-01-06,Customer_44,Shampoo,Personal Care,5,180,900.0,WH-A,Khulna,Failed,Delivered,2025-01-11,2025-01-16
+427,2025-06-09,Customer_13,Detergent,Home Care,9,500,4500.0,WH-C,Dhaka,Failed,Delivered,2025-06-10,2025-06-15
+428,2025-04-24,Customer_141,Soap,Personal Care,4,350,1400.0,WH-B,Rajshahi,Failed,Pending,2025-04-28,2025-04-29
+429,2025-04-18,Customer_134,Shampoo,Personal Care,1,250,250.0,WH-B,Sylhet,Failed,Pending,2025-04-19,2025-04-25
+430,2025-06-08,Customer_30,Detergent,Home Care,4,500,2000.0,WH-A,Rajshahi,Paid,Pending,2025-06-09,2025-06-12
+431,2025-02-21,Customer_105,Ice Cream,Foods,9,500,4500.0,WH-B,Chattogram,Paid,Dispatched,2025-02-24,2025-03-02
+432,2025-03-02,Customer_172,Shampoo,Personal Care,16,250,4000.0,WH-A,Dhaka,Failed,Dispatched,2025-03-03,2025-03-04
+433,2025-01-20,Customer_165,Shampoo,Personal Care,3,500,1500.0,WH-A,Rajshahi,Pending,Cancelled,2025-01-21,2025-01-24
+434,2025-02-14,Customer_75,Detergent,Home Care,2,120,240.0,WH-B,Khulna,Pending,Delivered,2025-02-15,2025-02-22
+435,2025-02-05,Customer_92,Soap,Personal Care,2,120,240.0,WH-B,Sylhet,Pending,Delivered,2025-02-07,2025-02-10
+436,2025-01-30,Customer_247,Toothpaste,Personal Care,11,180,,WH-B,Khulna,Pending,Dispatched,2025-02-03,2025-02-07
+437,2025-01-29,Customer_186,Ice Cream,Foods,14,180,2520.0,WH-A,Chattogram,Paid,Dispatched,2025-01-31,2025-02-06
+438,2025-06-23,Customer_157,Lotion,Beauty,16,500,8000.0,WH-B,Khulna,Failed,Delivered,2025-06-27,2025-06-29
+439,2025-05-05,Customer_113,Ice Cream,Foods,5,350,1750.0,WH-A,Dhaka,Pending,Cancelled,2025-05-06,2025-05-10
+440,2025-05-25,Customer_224,Soap,Personal Care,17,500,8500.0,WH-B,Sylhet,Failed,Delivered,2025-05-27,2025-06-02
+441,2025-03-30,Customer_215,Detergent,Home Care,8,350,2800.0,WH-C,Sylhet,Paid,Delivered,2025-04-03,2025-04-05
+442,2025-05-01,Customer_43,Tea,Foods,6,500,3000.0,WH-A,Rajshahi,Pending,Pending,2025-05-05,2025-05-12
+443,2025-05-10,Customer_165,Toothpaste,Personal Care,9,120,1080.0,WH-B,Rajshahi,Paid,Delivered,2025-05-12,2025-05-17
+444,2025-04-25,Customer_128,Detergent,Home Care,15,500,7500.0,WH-B,Khulna,Paid,Dispatched,2025-04-26,2025-05-03
+445,2025-04-14,Customer_143,Tea,Foods,1,120,120.0,WH-C,Dhaka,Paid,Cancelled,2025-04-18,2025-04-19
+446,2025-06-17,Customer_94,Lotion,Beauty,18,180,3240.0,WH-A,Chattogram,Pending,Cancelled,2025-06-21,2025-06-24
+447,2025-05-02,Customer_116,Lotion,Beauty,20,500,10000.0,WH-A,Dhaka,Failed,Pending,2025-05-05,2025-05-11
+448,2025-06-12,Customer_134,Soap,Personal Care,11,250,2750.0,WH-B,Dhaka,Paid,Pending,2025-06-15,2025-06-20
+449,2025-01-28,Customer_51,Detergent,Home Care,5,350,1750.0,WH-A,Dhaka,Pending,Pending,2025-01-31,2025-02-05
+450,2025-01-28,Customer_238,Detergent,Home Care,7,250,1750.0,WH-C,Sylhet,Paid,Dispatched,2025-02-01,2025-02-02
+451,2025-02-04,Customer_136,Detergent,Home Care,19,500,9500.0,WH-C,Dhaka,Failed,Dispatched,2025-02-08,2025-02-09
+452,2025-05-11,Customer_149,Ice Cream,Foods,19,350,6650.0,WH-A,Chattogram,Paid,Dispatched,2025-05-13,2025-05-19
+453,2025-03-24,Customer_108,Tea,Foods,20,500,10000.0,WH-C,Chattogram,Pending,Dispatched,2025-03-29,2025-04-02
+454,2025-02-04,Customer_155,Toothpaste,Personal Care,10,350,3500.0,WH-C,Sylhet,Pending,Cancelled,2025-02-06,2025-02-10
+455,2025-02-21,Customer_183,Tea,Foods,18,180,3240.0,WH-B,Khulna,Failed,Pending,2025-02-23,2025-02-28
+456,2025-05-19,Customer_30,Tea,Foods,6,500,3000.0,WH-B,Sylhet,Pending,Dispatched,2025-05-22,2025-05-28
+457,2025-04-19,Customer_28,Tea,Foods,18,250,4500.0,WH-A,Rajshahi,Paid,Delivered,2025-04-20,2025-04-25
+458,2025-03-10,Customer_175,Tea,Foods,2,180,360.0,WH-B,Chattogram,Paid,Cancelled,2025-03-12,2025-03-15
+459,2025-04-02,Customer_158,Shampoo,Personal Care,18,120,2160.0,WH-C,Sylhet,Paid,Dispatched,2025-04-06,2025-04-07
+460,2025-06-27,Customer_100,Shampoo,Personal Care,17,250,4250.0,WH-B,Khulna,,Delivered,2025-06-28,2025-07-02
+461,2025-06-08,Customer_58,Soap,Personal Care,9,180,1620.0,WH-C,Khulna,Failed,Pending,2025-06-12,2025-06-19
+462,2025-04-25,Customer_20,Ice Cream,Foods,7,250,1750.0,WH-A,Chattogram,Failed,Delivered,2025-04-27,2025-05-03
+463,2025-03-13,Customer_34,Detergent,Home Care,2,350,,WH-A,Sylhet,Pending,Delivered,2025-03-18,2025-03-21
+464,2025-01-11,Customer_153,Toothpaste,Personal Care,15,180,2700.0,WH-A,Sylhet,Failed,Cancelled,2025-01-13,2025-01-16
+465,2025-04-02,Customer_182,Detergent,Home Care,19,500,9500.0,,Sylhet,Paid,Pending,2025-04-03,2025-04-10
+466,2025-02-10,Customer_138,Lotion,Beauty,3,500,1500.0,WH-B,Dhaka,Pending,Pending,2025-02-14,2025-02-19
+467,2025-04-03,Customer_244,Shampoo,Personal Care,11,250,2750.0,WH-C,Sylhet,Pending,Delivered,2025-04-06,2025-04-08
+468,2025-03-03,Customer_63,Soap,Personal Care,12,350,4200.0,WH-A,Khulna,Pending,Delivered,2025-03-08,2025-03-13
+469,2025-03-14,Customer_211,Detergent,Home Care,9,500,4500.0,WH-B,Sylhet,Failed,Dispatched,2025-03-15,2025-03-20
+470,2025-06-16,Customer_132,Detergent,Home Care,2,250,500.0,WH-A,Dhaka,Paid,Delivered,2025-06-18,2025-06-21
+471,2025-06-21,Customer_176,Tea,Foods,3,180,540.0,WH-B,Dhaka,Paid,Dispatched,2025-06-23,2025-06-30
+472,2025-01-07,Customer_85,Tea,Foods,3,180,540.0,WH-A,Dhaka,Paid,Delivered,2025-01-11,2025-01-17
+473,2025-01-19,Customer_59,Shampoo,Personal Care,9,500,4500.0,WH-B,Rajshahi,Pending,Dispatched,2025-01-24,2025-01-31
+474,2025-03-22,Customer_173,Tea,Foods,13,350,4550.0,WH-A,Sylhet,Paid,Delivered,2025-03-23,2025-03-27
+475,2025-06-29,Customer_238,Ice Cream,Foods,19,120,2280.0,WH-C,Dhaka,Pending,Cancelled,2025-06-30,2025-07-03
+476,2025-04-23,Customer_211,Lotion,Beauty,3,250,750.0,WH-C,Dhaka,Pending,Pending,2025-04-27,2025-05-01
+477,2025-04-11,Customer_246,Lotion,Beauty,8,180,1440.0,WH-C,Chattogram,Pending,Cancelled,2025-04-16,2025-04-19
+478,2025-02-06,Customer_2,Soap,Personal Care,18,500,,WH-C,Sylhet,Pending,Delivered,2025-02-07,2025-02-08
+479,2025-02-24,Customer_218,Toothpaste,Personal Care,7,250,1750.0,WH-C,Chattogram,,Pending,2025-02-28,2025-03-06
+480,2025-02-19,Customer_172,Shampoo,Personal Care,20,250,5000.0,WH-C,Dhaka,Failed,Dispatched,2025-02-20,2025-02-22
+481,2025-03-16,Customer_26,Tea,Foods,18,120,2160.0,WH-A,Sylhet,Pending,Cancelled,2025-03-17,2025-03-20
+482,2025-01-26,Customer_18,Toothpaste,Personal Care,5,180,900.0,WH-A,Khulna,Pending,Dispatched,2025-01-29,2025-02-03
+483,2025-06-27,Customer_145,Toothpaste,Personal Care,20,250,5000.0,WH-C,Khulna,Pending,Dispatched,2025-07-02,2025-07-04
+484,2025-03-05,Customer_190,Shampoo,Personal Care,1,250,250.0,WH-C,Rajshahi,Pending,Cancelled,2025-03-07,2025-03-13
+485,2025-04-29,Customer_199,Shampoo,Personal Care,11,350,3850.0,WH-B,Rajshahi,Failed,Delivered,2025-05-03,2025-05-06
+486,2025-03-13,Customer_51,Shampoo,Personal Care,20,120,2400.0,WH-B,Dhaka,Failed,Delivered,2025-03-15,2025-03-20
+487,2025-05-29,Customer_197,Soap,Personal Care,17,120,2040.0,WH-C,Chattogram,Paid,Cancelled,2025-06-03,2025-06-07
+488,2025-06-17,Customer_101,Lotion,Beauty,18,350,6300.0,WH-A,Sylhet,Failed,Cancelled,2025-06-19,2025-06-22
+489,2025-05-11,Customer_94,Shampoo,Personal Care,15,500,7500.0,WH-C,Dhaka,Failed,Pending,2025-05-12,2025-05-16
+490,2025-05-12,Customer_41,Ice Cream,Foods,20,180,3600.0,WH-A,Sylhet,Failed,Pending,2025-05-14,2025-05-18
+491,2025-01-11,Customer_125,Tea,Foods,16,250,4000.0,WH-A,Dhaka,Pending,Cancelled,2025-01-13,2025-01-20
+492,2025-05-13,Customer_121,Shampoo,Personal Care,2,180,360.0,WH-B,Dhaka,Paid,Cancelled,2025-05-16,2025-05-20
+493,2025-03-09,Customer_146,Soap,Personal Care,17,250,4250.0,WH-A,Rajshahi,Failed,Dispatched,2025-03-14,2025-03-19
+494,2025-05-13,Customer_250,Toothpaste,Personal Care,19,120,2280.0,WH-A,Sylhet,Pending,Cancelled,2025-05-16,2025-05-20
+495,2025-05-04,Customer_129,Ice Cream,Foods,12,350,4200.0,WH-A,Rajshahi,Paid,Pending,2025-05-09,2025-05-10
+496,2025-02-24,Customer_41,Soap,Personal Care,17,250,4250.0,WH-B,Sylhet,Failed,Delivered,2025-02-26,2025-02-28
+497,2025-03-26,Customer_173,Tea,Foods,8,350,2800.0,WH-B,Rajshahi,Paid,Pending,2025-03-27,2025-03-31
+498,2025-03-04,Customer_147,Tea,Foods,14,120,1680.0,WH-C,Chattogram,Paid,Delivered,2025-03-05,2025-03-07
+499,2025-02-12,Customer_133,Lotion,Beauty,5,120,600.0,WH-B,Sylhet,Failed,Delivered,2025-02-15,2025-02-17
+500,2025-02-25,Customer_121,Tea,Foods,10,120,1200.0,WH-B,Chattogram,Paid,Dispatched,2025-03-01,2025-03-06
+501,2025-02-16,Customer_131,Lotion,Beauty,5,500,2500.0,WH-B,Chattogram,Failed,Cancelled,2025-02-21,2025-02-27
+502,2025-01-18,Customer_99,Detergent,Home Care,20,500,10000.0,WH-A,Dhaka,Paid,Pending,2025-01-20,2025-01-24
+503,2025-02-08,Customer_46,Lotion,Beauty,17,350,5950.0,WH-B,Sylhet,Failed,Delivered,2025-02-13,2025-02-14
+504,2025-01-31,Customer_169,Ice Cream,Foods,18,500,9000.0,WH-A,Sylhet,Failed,Delivered,2025-02-01,2025-02-05
+505,2025-04-18,Customer_12,Ice Cream,Foods,14,500,7000.0,WH-C,Sylhet,Pending,Pending,2025-04-21,2025-04-28
+506,2025-03-31,Customer_190,Ice Cream,Foods,16,350,5600.0,WH-C,Sylhet,Paid,Dispatched,2025-04-05,2025-04-12
+507,2025-03-01,Customer_154,Shampoo,Personal Care,9,350,3150.0,WH-C,Rajshahi,Pending,Pending,2025-03-02,2025-03-05
+508,2025-05-14,Customer_2,Soap,Personal Care,1,500,500.0,WH-B,Chattogram,Failed,Cancelled,2025-05-15,2025-05-20
+509,2025-02-09,Customer_150,Detergent,Home Care,12,120,1440.0,WH-B,Khulna,Failed,Dispatched,2025-02-13,2025-02-19
+510,2025-03-12,,Lotion,Beauty,12,500,6000.0,WH-B,Sylhet,Failed,Dispatched,,2025-03-23
+511,2025-05-23,,Shampoo,Personal Care,12,500,6000.0,WH-C,Khulna,Failed,Dispatched,,2025-05-30
+512,2025-02-28,Customer_180,Tea,Foods,5,120,600.0,WH-A,Dhaka,,Dispatched,2025-03-04,2025-03-11
+513,2025-06-07,Customer_100,Ice Cream,Foods,11,500,5500.0,WH-C,Dhaka,Paid,Pending,2025-06-08,2025-06-10
+514,2025-01-23,Customer_57,Detergent,Home Care,20,350,7000.0,WH-B,Dhaka,Failed,Delivered,2025-01-24,2025-01-27
+515,2025-06-07,Customer_183,Tea,Foods,13,350,4550.0,WH-C,Dhaka,Paid,Dispatched,2025-06-12,2025-06-15
+516,2025-06-18,Customer_50,Detergent,Home Care,1,180,180.0,WH-A,Sylhet,Failed,Pending,2025-06-23,2025-06-26
+517,2025-04-03,Customer_1,Lotion,Beauty,6,120,720.0,WH-A,Dhaka,Pending,Dispatched,2025-04-05,2025-04-11
+518,2025-05-31,Customer_4,Toothpaste,Personal Care,13,350,4550.0,WH-C,Dhaka,Paid,Cancelled,2025-06-02,2025-06-07
+519,2025-03-31,Customer_71,Tea,Foods,18,500,9000.0,WH-A,Sylhet,,Dispatched,2025-04-03,2025-04-10
+520,2025-03-08,Customer_130,Detergent,Home Care,19,120,2280.0,WH-A,Sylhet,Paid,Cancelled,2025-03-10,2025-03-14
+521,2025-03-07,Customer_204,Toothpaste,Personal Care,4,500,2000.0,WH-C,Khulna,Failed,Dispatched,2025-03-12,2025-03-19
+522,2025-03-04,Customer_118,Detergent,Home Care,19,350,6650.0,WH-C,Rajshahi,Failed,Delivered,2025-03-07,2025-03-14
+523,2025-01-18,Customer_202,Detergent,Home Care,4,250,1000.0,WH-A,Chattogram,Pending,Dispatched,2025-01-22,2025-01-28
+524,2025-01-03,,Toothpaste,Personal Care,17,500,8500.0,WH-A,Rajshahi,Failed,Cancelled,,2025-01-08
+525,2025-05-02,Customer_56,Soap,Personal Care,18,180,3240.0,WH-C,Khulna,Paid,Pending,2025-05-05,2025-05-08
+526,2025-03-03,Customer_59,Detergent,Home Care,7,180,1260.0,WH-A,Chattogram,Failed,Cancelled,2025-03-06,2025-03-08
+527,2025-01-21,Customer_2,Shampoo,Personal Care,4,120,480.0,WH-C,Dhaka,Pending,Cancelled,2025-01-25,2025-01-30
+528,2025-05-28,Customer_47,Lotion,Beauty,11,350,3850.0,WH-C,Khulna,Pending,Pending,2025-05-31,2025-06-04
+529,2025-01-14,Customer_109,Ice Cream,Foods,19,180,3420.0,WH-B,Sylhet,Paid,Cancelled,2025-01-19,2025-01-26
+530,2025-01-31,Customer_81,Detergent,Home Care,6,350,2100.0,WH-C,Dhaka,Paid,Pending,2025-02-05,2025-02-09
+531,2025-03-25,Customer_221,Detergent,Home Care,19,120,2280.0,WH-B,Chattogram,Failed,Cancelled,2025-03-28,2025-04-02
+532,2025-06-06,Customer_48,Shampoo,Personal Care,9,350,3150.0,WH-B,Rajshahi,Paid,Dispatched,2025-06-09,2025-06-12
+533,2025-04-13,Customer_47,Tea,Foods,12,250,3000.0,WH-C,Chattogram,Failed,Pending,2025-04-16,2025-04-20
+534,2025-03-02,Customer_220,Ice Cream,Foods,4,250,1000.0,WH-B,Chattogram,Paid,Pending,2025-03-07,2025-03-11
+535,2025-04-18,Customer_229,Detergent,Home Care,1,180,180.0,WH-C,Sylhet,,Cancelled,2025-04-22,2025-04-24
+536,2025-03-06,Customer_146,Ice Cream,Foods,16,250,4000.0,WH-A,Rajshahi,Paid,Pending,2025-03-11,2025-03-18
+537,2025-05-02,Customer_191,Soap,Personal Care,7,250,1750.0,WH-B,Khulna,Pending,Cancelled,2025-05-03,2025-05-07
+538,2025-03-30,Customer_32,Lotion,Beauty,18,250,4500.0,WH-B,Sylhet,Paid,Pending,2025-03-31,2025-04-04
+539,2025-03-25,Customer_199,Ice Cream,Foods,10,250,2500.0,WH-C,Rajshahi,Paid,Dispatched,2025-03-30,2025-04-03
+540,2025-06-11,Customer_43,Lotion,Beauty,10,350,3500.0,WH-C,Khulna,Pending,Dispatched,2025-06-13,2025-06-20
+541,2025-02-11,Customer_81,Ice Cream,Foods,3,120,360.0,WH-B,Khulna,Failed,Cancelled,2025-02-14,2025-02-16
+542,2025-04-24,Customer_151,Lotion,Beauty,13,250,,WH-C,Rajshahi,Pending,Pending,2025-04-27,2025-05-03
+543,2025-03-02,Customer_180,Shampoo,Personal Care,1,180,180.0,,Dhaka,Paid,Pending,2025-03-05,2025-03-11
+544,2025-01-17,Customer_14,Detergent,Home Care,4,120,480.0,WH-A,Rajshahi,Failed,Delivered,2025-01-21,2025-01-26
+545,2025-02-09,Customer_239,Soap,Personal Care,9,500,4500.0,WH-B,Khulna,Paid,Pending,2025-02-10,2025-02-16
+546,2025-06-10,Customer_135,Tea,Foods,10,350,3500.0,WH-A,Dhaka,Paid,Cancelled,2025-06-12,2025-06-14
+547,2025-04-30,Customer_141,Ice Cream,Foods,11,350,3850.0,WH-B,Chattogram,Failed,Pending,2025-05-05,2025-05-08
+548,2025-06-11,Customer_135,Lotion,Beauty,20,350,7000.0,WH-C,Sylhet,Pending,Cancelled,2025-06-16,2025-06-20
+549,2025-01-23,Customer_94,Detergent,Home Care,18,180,3240.0,WH-B,Khulna,Paid,Cancelled,2025-01-27,2025-01-30
+550,2025-02-04,Customer_121,Soap,Personal Care,1,500,,WH-C,Dhaka,Failed,Dispatched,2025-02-07,2025-02-10
+551,2025-01-03,Customer_75,Ice Cream,Foods,16,250,4000.0,WH-C,Chattogram,Paid,Cancelled,2025-01-07,2025-01-14
+552,2025-04-22,Customer_42,Shampoo,Personal Care,14,500,7000.0,WH-C,Rajshahi,Pending,Pending,2025-04-26,2025-04-28
+553,2025-06-10,Customer_196,Toothpaste,Personal Care,3,350,1050.0,WH-C,Khulna,Pending,Cancelled,2025-06-12,2025-06-17
+554,2025-02-16,Customer_29,Detergent,Home Care,7,120,840.0,WH-C,Rajshahi,Failed,Dispatched,2025-02-18,2025-02-21
+555,2025-02-18,Customer_39,Toothpaste,Personal Care,20,350,7000.0,WH-A,Sylhet,Paid,Pending,2025-02-21,2025-02-22
+556,2025-02-02,Customer_3,Soap,Personal Care,10,250,2500.0,WH-A,Dhaka,Paid,Delivered,2025-02-06,2025-02-12
+557,2025-04-18,Customer_205,Detergent,Home Care,7,250,1750.0,WH-B,Khulna,Pending,Delivered,2025-04-21,2025-04-28
+558,2025-01-15,Customer_101,Toothpaste,Personal Care,3,180,540.0,WH-A,Sylhet,Pending,Pending,2025-01-18,2025-01-25
+559,2025-01-04,Customer_183,Shampoo,Personal Care,9,350,3150.0,WH-A,Rajshahi,Pending,Pending,2025-01-05,2025-01-12
+560,2025-04-28,Customer_171,Tea,Foods,2,180,360.0,WH-A,Rajshahi,Pending,Cancelled,2025-04-29,2025-05-04
+561,2025-05-21,Customer_65,Toothpaste,Personal Care,6,120,720.0,WH-B,Khulna,Paid,Cancelled,2025-05-26,2025-05-27
+562,2025-03-02,Customer_4,Soap,Personal Care,7,120,840.0,WH-A,Khulna,Failed,Delivered,2025-03-06,2025-03-09
+563,2025-01-11,Customer_177,Detergent,Home Care,8,120,960.0,WH-B,Sylhet,Paid,Cancelled,2025-01-16,2025-01-23
+564,2025-02-10,Customer_176,Ice Cream,Foods,3,180,540.0,WH-C,Khulna,Failed,Delivered,2025-02-14,2025-02-15
+565,2025-06-29,Customer_28,Soap,Personal Care,12,180,2160.0,WH-A,Rajshahi,Paid,Cancelled,2025-07-04,2025-07-11
+566,2025-02-19,Customer_97,Lotion,Beauty,12,350,4200.0,WH-B,Chattogram,Pending,Delivered,2025-02-20,2025-02-26
+567,2025-03-17,Customer_126,Detergent,Home Care,15,500,7500.0,WH-A,Sylhet,Paid,Cancelled,2025-03-22,2025-03-28
+568,2025-06-03,Customer_18,Toothpaste,Personal Care,15,250,3750.0,WH-C,Chattogram,Pending,Cancelled,2025-06-08,2025-06-10
+569,2025-04-04,Customer_199,Ice Cream,Foods,9,500,4500.0,WH-C,Sylhet,Pending,Pending,2025-04-08,2025-04-09
+570,2025-06-08,,Soap,Personal Care,20,250,5000.0,WH-A,Sylhet,Pending,Pending,,2025-06-13
+571,2025-02-09,Customer_83,Lotion,Beauty,16,500,8000.0,WH-B,Khulna,,Delivered,2025-02-14,2025-02-17
+572,2025-02-03,Customer_9,Lotion,Beauty,3,120,360.0,WH-A,Dhaka,Pending,Pending,2025-02-05,2025-02-12
+573,2025-06-14,Customer_126,Soap,Personal Care,2,500,1000.0,WH-C,Sylhet,Failed,Cancelled,2025-06-18,2025-06-24
+574,2025-06-05,Customer_239,Soap,Personal Care,12,180,2160.0,WH-A,Rajshahi,Paid,Dispatched,2025-06-06,2025-06-07
+575,2025-05-23,Customer_95,Ice Cream,Foods,2,250,500.0,WH-C,Dhaka,Failed,Cancelled,2025-05-27,2025-06-03
+576,2025-03-19,Customer_246,Lotion,Beauty,2,120,240.0,WH-C,Dhaka,Paid,Pending,2025-03-20,2025-03-22
+577,2025-02-19,Customer_64,Lotion,Beauty,13,180,2340.0,WH-C,Chattogram,Failed,Dispatched,2025-02-24,2025-03-02
+578,2025-04-02,Customer_171,Tea,Foods,4,500,2000.0,WH-B,Dhaka,Paid,Pending,2025-04-06,2025-04-12
+579,2025-03-28,Customer_154,Lotion,Beauty,13,500,6500.0,WH-B,Khulna,Pending,Cancelled,2025-03-30,2025-04-04
+580,2025-06-12,Customer_186,Ice Cream,Foods,12,350,4200.0,WH-B,Sylhet,Paid,Pending,2025-06-16,2025-06-23
+581,2025-04-03,Customer_246,Detergent,Home Care,18,250,4500.0,WH-B,Dhaka,Failed,Delivered,2025-04-07,2025-04-11
+582,2025-05-13,Customer_2,Toothpaste,Personal Care,20,120,2400.0,WH-B,Chattogram,Paid,Cancelled,2025-05-15,2025-05-18
+583,2025-05-11,Customer_238,Soap,Personal Care,9,500,4500.0,WH-C,Chattogram,Paid,Delivered,2025-05-16,2025-05-21
+584,2025-02-05,Customer_228,Detergent,Home Care,12,180,2160.0,WH-C,Chattogram,Paid,Cancelled,2025-02-08,2025-02-11
+585,2025-05-27,Customer_235,Ice Cream,Foods,10,120,1200.0,WH-A,Dhaka,Failed,Cancelled,2025-05-31,2025-06-05
+586,2025-05-05,Customer_233,Ice Cream,Foods,16,180,2880.0,WH-A,Sylhet,Failed,Cancelled,2025-05-10,2025-05-17
+587,2025-01-21,Customer_86,Soap,Personal Care,19,350,6650.0,WH-B,Rajshahi,Pending,Delivered,2025-01-22,2025-01-29
+588,2025-01-03,Customer_79,Ice Cream,Foods,8,500,4000.0,WH-C,Dhaka,Pending,Pending,2025-01-07,2025-01-08
+589,2025-02-09,Customer_188,Toothpaste,Personal Care,17,180,3060.0,WH-B,Rajshahi,Failed,Delivered,2025-02-10,2025-02-16
+590,2025-04-11,Customer_87,Shampoo,Personal Care,14,250,3500.0,WH-A,Rajshahi,Failed,Delivered,2025-04-13,2025-04-15
+591,2025-01-22,Customer_112,Lotion,Beauty,13,250,3250.0,WH-C,Chattogram,Paid,Dispatched,2025-01-26,2025-01-31
+592,2025-04-12,Customer_144,Lotion,Beauty,7,350,2450.0,WH-C,Sylhet,Paid,Pending,2025-04-17,2025-04-19
+593,2025-03-24,Customer_29,Soap,Personal Care,9,350,3150.0,WH-C,Rajshahi,Pending,Cancelled,2025-03-29,2025-03-30
+594,2025-03-30,Customer_7,Toothpaste,Personal Care,7,250,1750.0,WH-B,Chattogram,Pending,Dispatched,2025-04-04,2025-04-10
+595,2025-01-12,Customer_176,Lotion,Beauty,5,350,1750.0,WH-B,Chattogram,Failed,Delivered,2025-01-14,2025-01-16
+596,2025-06-08,Customer_214,Soap,Personal Care,2,180,360.0,WH-B,Dhaka,Pending,Delivered,2025-06-10,2025-06-17
+597,2025-01-06,Customer_190,Toothpaste,Personal Care,15,350,5250.0,WH-C,Chattogram,Paid,Cancelled,2025-01-09,2025-01-11
+598,2025-02-06,Customer_150,Lotion,Beauty,16,500,8000.0,WH-C,Sylhet,Paid,Cancelled,2025-02-07,2025-02-11
+599,2025-02-21,Customer_14,Shampoo,Personal Care,2,250,500.0,WH-B,Dhaka,Paid,Dispatched,2025-02-26,2025-03-01
+600,2025-01-28,Customer_223,Tea,Foods,9,250,2250.0,WH-C,Rajshahi,Paid,Dispatched,2025-01-29,2025-02-01
+601,2025-05-05,Customer_23,Lotion,Beauty,4,250,1000.0,WH-A,Chattogram,Failed,Dispatched,2025-05-10,2025-05-15
+602,2025-03-05,Customer_86,Lotion,Beauty,1,120,120.0,WH-B,Rajshahi,Failed,Pending,2025-03-10,2025-03-13
+603,2025-04-01,Customer_129,Soap,Personal Care,12,250,3000.0,WH-B,Dhaka,Failed,Cancelled,2025-04-04,2025-04-06
+604,2025-03-13,Customer_88,Detergent,Home Care,1,500,500.0,WH-B,Chattogram,Paid,Dispatched,2025-03-15,2025-03-17
+605,2025-04-17,Customer_40,Lotion,Beauty,20,180,3600.0,WH-B,Khulna,Failed,Cancelled,2025-04-19,2025-04-24
+606,2025-02-22,Customer_139,Detergent,Home Care,18,180,3240.0,WH-C,Chattogram,Paid,Cancelled,2025-02-24,2025-03-01
+607,2025-04-21,Customer_239,Tea,Foods,17,180,3060.0,WH-C,Chattogram,Pending,Delivered,2025-04-23,2025-04-29
+608,2025-02-17,Customer_226,Lotion,Beauty,18,120,,WH-A,Dhaka,Pending,Dispatched,2025-02-20,2025-02-27
+609,2025-06-13,Customer_200,Detergent,Home Care,10,350,3500.0,WH-A,Dhaka,Paid,Pending,2025-06-16,2025-06-18
+610,2025-03-10,Customer_157,Soap,Personal Care,20,500,10000.0,WH-A,Sylhet,Paid,Pending,2025-03-15,2025-03-20
+611,2025-01-21,Customer_129,Tea,Foods,1,250,250.0,WH-C,Rajshahi,Failed,Cancelled,2025-01-25,2025-01-27
+612,2025-05-02,,Shampoo,Personal Care,13,350,4550.0,WH-A,Dhaka,Pending,Delivered,,2025-05-06
+613,2025-06-21,Customer_53,Toothpaste,Personal Care,14,180,2520.0,WH-A,Chattogram,Pending,Dispatched,2025-06-23,2025-06-30
+614,2025-03-05,Customer_199,Tea,Foods,11,350,3850.0,WH-A,Sylhet,Failed,Dispatched,2025-03-09,2025-03-13
+615,2025-06-06,,Tea,Foods,11,350,3850.0,WH-C,Dhaka,,Delivered,,2025-06-16
+616,2025-03-04,Customer_102,Detergent,Home Care,15,120,1800.0,WH-C,Dhaka,Failed,Dispatched,2025-03-09,2025-03-14
+617,2025-03-16,Customer_227,Lotion,Beauty,2,180,360.0,WH-B,Khulna,Pending,Pending,2025-03-20,2025-03-24
+618,2025-01-14,Customer_119,Detergent,Home Care,10,500,5000.0,WH-C,Rajshahi,Paid,Delivered,2025-01-19,2025-01-21
+619,2025-02-04,Customer_83,Shampoo,Personal Care,19,500,9500.0,WH-B,Dhaka,Paid,Dispatched,2025-02-08,2025-02-12
+620,2025-01-24,Customer_178,Lotion,Beauty,7,350,2450.0,WH-C,Chattogram,Failed,Delivered,2025-01-27,2025-01-30
+621,2025-06-12,,Soap,Personal Care,4,350,1400.0,WH-C,Rajshahi,Failed,Pending,,2025-06-16
+622,2025-01-12,Customer_145,Detergent,Home Care,18,350,6300.0,WH-C,Chattogram,Paid,Pending,2025-01-14,2025-01-17
+623,2025-03-20,Customer_197,Shampoo,Personal Care,2,350,700.0,WH-B,Khulna,Failed,Pending,2025-03-23,2025-03-29
+624,2025-01-01,Customer_65,Soap,Personal Care,5,180,900.0,WH-A,Rajshahi,Pending,Dispatched,2025-01-06,2025-01-13
+625,2025-05-07,Customer_151,Lotion,Beauty,1,500,500.0,WH-C,Rajshahi,Pending,Dispatched,2025-05-09,2025-05-11
+626,2025-06-03,Customer_226,Detergent,Home Care,3,500,1500.0,WH-C,Khulna,Failed,Pending,2025-06-04,2025-06-06
+627,2025-01-15,Customer_38,Soap,Personal Care,6,180,1080.0,WH-A,Sylhet,Failed,Cancelled,2025-01-18,2025-01-19
+628,2025-01-28,Customer_42,Toothpaste,Personal Care,3,120,360.0,WH-C,Khulna,Failed,Pending,2025-02-01,2025-02-03
+629,2025-01-10,Customer_77,Detergent,Home Care,19,250,4750.0,WH-B,Khulna,Pending,Delivered,2025-01-11,2025-01-18
+630,2025-01-17,Customer_35,Ice Cream,Foods,14,500,7000.0,WH-A,Khulna,,Dispatched,2025-01-20,2025-01-24
+631,2025-06-06,Customer_147,Lotion,Beauty,7,180,1260.0,WH-C,Sylhet,Paid,Dispatched,2025-06-07,2025-06-08
+632,2025-04-20,Customer_82,Tea,Foods,20,250,5000.0,WH-B,Sylhet,Failed,Cancelled,2025-04-25,2025-05-02
+633,2025-05-08,Customer_162,Shampoo,Personal Care,20,500,10000.0,WH-B,Rajshahi,Paid,Pending,2025-05-13,2025-05-19
+634,2025-01-01,Customer_120,Tea,Foods,10,180,1800.0,WH-C,Dhaka,Failed,Pending,2025-01-02,2025-01-03
+635,2025-04-16,Customer_90,Ice Cream,Foods,20,350,7000.0,WH-C,Chattogram,Paid,Pending,2025-04-17,2025-04-20
+636,2025-01-18,Customer_130,Tea,Foods,10,250,2500.0,WH-C,Khulna,Paid,Delivered,2025-01-21,2025-01-24
+637,2025-04-12,Customer_246,Tea,Foods,11,250,2750.0,WH-A,Chattogram,Paid,Cancelled,2025-04-17,2025-04-22
+638,2025-05-02,Customer_35,Ice Cream,Foods,11,350,3850.0,WH-B,Chattogram,Failed,Dispatched,2025-05-03,2025-05-09
+639,2025-04-29,Customer_15,Ice Cream,Foods,18,250,4500.0,WH-C,Khulna,Failed,Cancelled,2025-05-03,2025-05-09
+640,2025-02-23,Customer_85,Lotion,Beauty,18,120,2160.0,WH-B,Dhaka,Paid,Cancelled,2025-02-28,2025-03-06
+641,2025-04-07,Customer_43,Ice Cream,Foods,1,250,250.0,WH-C,Sylhet,Pending,Pending,2025-04-12,2025-04-19
+642,2025-06-30,Customer_9,Lotion,Beauty,4,250,1000.0,WH-B,Rajshahi,Paid,Dispatched,2025-07-03,2025-07-09
+643,2025-03-19,Customer_78,Shampoo,Personal Care,12,350,4200.0,WH-A,Dhaka,Pending,Delivered,2025-03-21,2025-03-26
+644,2025-04-24,Customer_205,Ice Cream,Foods,7,120,840.0,WH-B,Sylhet,Paid,Pending,2025-04-29,2025-04-30
+645,2025-03-21,Customer_197,Toothpaste,Personal Care,16,500,8000.0,WH-A,Sylhet,Failed,Pending,2025-03-24,2025-03-26
+646,2025-04-10,,Shampoo,Personal Care,2,350,700.0,WH-B,Dhaka,Failed,Delivered,,2025-04-16
+647,2025-01-27,Customer_169,Toothpaste,Personal Care,15,120,1800.0,WH-C,Khulna,Paid,Cancelled,2025-02-01,2025-02-08
+648,2025-02-21,Customer_71,Tea,Foods,7,250,1750.0,WH-C,Khulna,Pending,Delivered,2025-02-23,2025-02-26
+649,2025-03-12,Customer_246,Toothpaste,Personal Care,5,180,900.0,WH-C,Sylhet,Failed,Delivered,2025-03-13,2025-03-14
+650,2025-05-21,Customer_37,Shampoo,Personal Care,18,250,4500.0,WH-C,Khulna,Failed,Pending,2025-05-24,2025-05-27
+651,2025-06-06,Customer_114,Shampoo,Personal Care,3,250,750.0,WH-A,Chattogram,Paid,Dispatched,2025-06-09,2025-06-14
+652,2025-04-09,Customer_110,Tea,Foods,2,120,240.0,WH-B,Chattogram,Failed,Dispatched,2025-04-10,2025-04-11
+653,2025-03-27,Customer_195,Lotion,Beauty,12,250,3000.0,WH-C,Sylhet,Paid,Dispatched,2025-03-29,2025-04-04
+654,2025-06-28,Customer_117,Lotion,Beauty,5,120,600.0,WH-B,Rajshahi,Pending,Pending,2025-07-02,2025-07-03
+655,2025-03-08,Customer_47,Shampoo,Personal Care,5,500,2500.0,WH-C,Khulna,Pending,Dispatched,2025-03-11,2025-03-15
+656,2025-05-02,Customer_123,Detergent,Home Care,1,120,120.0,WH-B,Chattogram,Pending,Cancelled,2025-05-03,2025-05-06
+657,2025-05-11,Customer_210,Lotion,Beauty,19,180,3420.0,WH-C,Dhaka,Pending,Delivered,2025-05-12,2025-05-16
+658,2025-04-29,Customer_106,Ice Cream,Foods,10,500,5000.0,WH-A,Sylhet,Paid,Pending,2025-05-03,2025-05-08
+659,2025-03-29,Customer_178,Detergent,Home Care,13,120,1560.0,WH-C,Rajshahi,Pending,Cancelled,2025-03-31,2025-04-07
+660,2025-06-19,Customer_239,Lotion,Beauty,8,180,1440.0,WH-C,Sylhet,Pending,Delivered,2025-06-20,2025-06-26
+661,2025-03-25,Customer_211,Lotion,Beauty,20,350,7000.0,WH-B,Chattogram,Pending,Dispatched,2025-03-30,2025-03-31
+662,2025-06-25,Customer_210,Soap,Personal Care,20,120,2400.0,WH-B,Khulna,Pending,Delivered,2025-06-30,2025-07-07
+663,2025-05-29,Customer_38,Soap,Personal Care,7,180,1260.0,WH-C,Chattogram,Pending,Cancelled,2025-05-30,2025-06-06
+664,2025-04-25,,Detergent,Home Care,20,500,10000.0,WH-B,Khulna,Failed,Cancelled,,2025-04-29
+665,2025-05-30,Customer_131,Detergent,Home Care,12,120,1440.0,WH-B,Chattogram,Pending,Delivered,2025-05-31,2025-06-05
+666,2025-01-01,Customer_92,Toothpaste,Personal Care,18,120,2160.0,WH-A,Khulna,Paid,Pending,2025-01-06,2025-01-13
+667,2025-06-10,Customer_98,Detergent,Home Care,19,350,6650.0,WH-B,Rajshahi,Pending,Pending,2025-06-13,2025-06-19
+668,2025-02-05,Customer_99,Tea,Foods,6,350,2100.0,WH-B,Rajshahi,Paid,Cancelled,2025-02-07,2025-02-12
+669,2025-01-03,Customer_5,Ice Cream,Foods,5,180,900.0,WH-A,Rajshahi,Failed,Dispatched,2025-01-04,2025-01-10
+670,2025-06-14,Customer_117,Shampoo,Personal Care,3,180,540.0,WH-C,Sylhet,Pending,Pending,2025-06-18,2025-06-25
+671,2025-05-22,Customer_91,Detergent,Home Care,17,350,5950.0,WH-A,Chattogram,Pending,Delivered,2025-05-26,2025-05-30
+672,2025-05-09,Customer_238,Lotion,Beauty,16,180,2880.0,WH-C,Sylhet,Pending,Delivered,2025-05-12,2025-05-16
+673,2025-06-30,Customer_149,Soap,Personal Care,19,350,6650.0,WH-B,Dhaka,Paid,Cancelled,2025-07-03,2025-07-04
+674,2025-05-14,Customer_63,Detergent,Home Care,17,120,2040.0,WH-B,Dhaka,Failed,Cancelled,2025-05-19,2025-05-20
+675,2025-05-17,Customer_117,Lotion,Beauty,2,250,500.0,WH-C,Rajshahi,Failed,Cancelled,2025-05-18,2025-05-22
+676,2025-03-16,Customer_178,Detergent,Home Care,12,250,3000.0,WH-C,Khulna,Failed,Cancelled,2025-03-18,2025-03-19
+677,2025-02-13,Customer_169,Soap,Personal Care,16,500,8000.0,WH-B,Sylhet,Paid,Cancelled,2025-02-18,2025-02-19
+678,2025-05-10,Customer_201,Detergent,Home Care,3,180,540.0,WH-B,Khulna,Paid,Cancelled,2025-05-11,2025-05-18
+679,2025-01-29,Customer_233,Toothpaste,Personal Care,9,120,1080.0,WH-C,Chattogram,Failed,Dispatched,2025-02-03,2025-02-05
+680,2025-06-29,Customer_47,Toothpaste,Personal Care,6,250,1500.0,WH-C,Dhaka,Pending,Delivered,2025-07-01,2025-07-05
+681,2025-05-07,Customer_99,Shampoo,Personal Care,20,180,3600.0,WH-A,Rajshahi,Failed,Pending,2025-05-11,2025-05-18
+682,2025-01-14,Customer_210,Shampoo,Personal Care,19,250,4750.0,WH-A,Dhaka,Paid,Dispatched,2025-01-17,2025-01-24
+683,2025-05-02,Customer_98,Detergent,Home Care,16,250,4000.0,WH-C,Rajshahi,Pending,Cancelled,2025-05-07,2025-05-09
+684,2025-01-04,Customer_115,Shampoo,Personal Care,17,350,5950.0,WH-B,Khulna,Failed,Delivered,2025-01-07,2025-01-14
+685,2025-04-21,Customer_220,Soap,Personal Care,18,250,4500.0,WH-B,Khulna,Pending,Cancelled,2025-04-26,2025-05-02
+686,2025-06-17,Customer_119,Ice Cream,Foods,4,250,1000.0,WH-C,Chattogram,Failed,Pending,2025-06-22,2025-06-26
+687,2025-03-22,Customer_173,Lotion,Beauty,11,180,1980.0,WH-A,Dhaka,Paid,Dispatched,2025-03-27,2025-03-28
+688,2025-06-25,,Soap,Personal Care,17,120,2040.0,WH-C,Khulna,Pending,Pending,,2025-07-02
+689,2025-01-24,Customer_169,Soap,Personal Care,1,500,500.0,WH-A,Sylhet,Failed,Delivered,2025-01-25,2025-01-30
+690,2025-06-04,Customer_169,Tea,Foods,4,120,480.0,WH-C,Sylhet,Paid,Delivered,2025-06-06,2025-06-10
+691,2025-03-17,Customer_240,Tea,Foods,6,250,1500.0,WH-A,Rajshahi,Pending,Dispatched,2025-03-21,2025-03-27
+692,2025-02-11,Customer_199,Tea,Foods,11,250,2750.0,WH-A,Rajshahi,,Cancelled,2025-02-12,2025-02-15
+693,2025-02-15,Customer_126,Soap,Personal Care,9,250,2250.0,WH-A,Sylhet,Pending,Pending,2025-02-19,2025-02-20
+694,2025-02-06,Customer_111,Tea,Foods,16,120,1920.0,WH-A,Sylhet,Failed,Delivered,2025-02-11,2025-02-18
+695,2025-01-09,Customer_147,Detergent,Home Care,9,120,1080.0,WH-C,Khulna,Pending,Delivered,2025-01-10,2025-01-11
+696,2025-01-10,Customer_39,Detergent,Home Care,5,120,600.0,WH-C,Khulna,Pending,Delivered,2025-01-14,2025-01-17
+697,2025-04-22,Customer_187,Lotion,Beauty,16,350,5600.0,WH-A,Sylhet,Paid,Delivered,2025-04-26,2025-05-03
+698,2025-05-26,Customer_86,Detergent,Home Care,16,120,1920.0,WH-C,Khulna,Pending,Delivered,2025-05-31,2025-06-03
+699,2025-05-17,Customer_216,Tea,Foods,3,250,750.0,WH-B,Khulna,Failed,Pending,2025-05-20,2025-05-21
+700,2025-04-09,Customer_179,Shampoo,Personal Care,18,120,2160.0,WH-B,Dhaka,Failed,Cancelled,2025-04-11,2025-04-14
+701,2025-02-18,Customer_50,Detergent,Home Care,3,350,1050.0,WH-A,Sylhet,Paid,Dispatched,2025-02-20,2025-02-21
+702,2025-06-14,Customer_137,Detergent,Home Care,3,500,1500.0,WH-B,Dhaka,Paid,Cancelled,2025-06-17,2025-06-21
+703,2025-04-14,Customer_207,Soap,Personal Care,11,120,1320.0,WH-C,Sylhet,Pending,Pending,2025-04-15,2025-04-17
+704,2025-01-19,Customer_37,Tea,Foods,19,180,3420.0,WH-B,Dhaka,Pending,Delivered,2025-01-20,2025-01-26
+705,2025-02-14,Customer_211,Shampoo,Personal Care,5,120,600.0,WH-A,Rajshahi,Failed,Pending,2025-02-15,2025-02-18
+706,2025-01-28,Customer_153,Ice Cream,Foods,19,120,2280.0,WH-C,Chattogram,Paid,Pending,2025-01-29,2025-02-02
+707,2025-03-25,Customer_148,Detergent,Home Care,11,350,3850.0,WH-C,Chattogram,Pending,Pending,2025-03-26,2025-04-01
+708,2025-02-14,Customer_31,Ice Cream,Foods,2,500,1000.0,WH-B,Chattogram,Pending,Pending,2025-02-17,2025-02-18
+709,2025-02-12,Customer_237,Tea,Foods,12,500,6000.0,WH-C,Dhaka,Paid,Delivered,2025-02-16,2025-02-18
+710,2025-02-10,Customer_21,Ice Cream,Foods,20,350,7000.0,WH-A,Dhaka,Paid,Delivered,2025-02-11,2025-02-15
+711,2025-04-17,Customer_33,Tea,Foods,19,250,4750.0,WH-A,Chattogram,,Cancelled,2025-04-21,2025-04-27
+712,2025-03-03,Customer_178,Lotion,Beauty,15,350,5250.0,WH-A,Sylhet,Paid,Dispatched,2025-03-05,2025-03-10
+713,2025-03-31,Customer_143,Lotion,Beauty,3,250,750.0,WH-A,Chattogram,Paid,Delivered,2025-04-04,2025-04-05
+714,2025-05-10,Customer_198,Lotion,Beauty,12,500,6000.0,WH-C,Chattogram,Pending,Delivered,2025-05-12,2025-05-16
+715,2025-06-25,Customer_46,Shampoo,Personal Care,4,180,720.0,WH-A,Dhaka,Paid,Cancelled,2025-06-29,2025-07-03
+716,2025-03-06,Customer_207,Toothpaste,Personal Care,7,350,2450.0,WH-B,Dhaka,Paid,Delivered,2025-03-09,2025-03-14
+717,2025-01-08,Customer_30,Lotion,Beauty,6,180,1080.0,WH-A,Chattogram,Failed,Dispatched,2025-01-12,2025-01-17
+718,2025-04-18,Customer_174,Lotion,Beauty,19,250,4750.0,WH-B,Chattogram,Paid,Cancelled,2025-04-20,2025-04-26
+719,2025-04-16,Customer_229,Shampoo,Personal Care,4,180,720.0,WH-A,Dhaka,Pending,Dispatched,2025-04-18,2025-04-22
+720,2025-02-25,Customer_46,Soap,Personal Care,14,180,2520.0,WH-B,Khulna,Paid,Dispatched,2025-03-02,2025-03-06
+721,2025-03-11,Customer_33,Tea,Foods,7,250,1750.0,WH-A,Sylhet,Paid,Cancelled,2025-03-13,2025-03-16
+722,2025-04-28,Customer_195,Shampoo,Personal Care,4,350,1400.0,WH-B,Chattogram,Pending,Pending,2025-05-02,2025-05-04
+723,2025-05-28,Customer_59,Ice Cream,Foods,20,180,3600.0,WH-A,Rajshahi,Failed,Dispatched,2025-06-02,2025-06-09
+724,2025-05-02,Customer_4,Ice Cream,Foods,7,500,3500.0,WH-C,Rajshahi,Failed,Pending,2025-05-06,2025-05-09
+725,2025-05-29,Customer_243,Shampoo,Personal Care,11,350,3850.0,WH-A,Sylhet,Paid,Dispatched,2025-05-31,2025-06-05
+726,2025-05-10,Customer_136,Soap,Personal Care,2,350,700.0,WH-B,Rajshahi,Failed,Delivered,2025-05-11,2025-05-15
+727,2025-01-22,Customer_4,Detergent,Home Care,16,180,2880.0,WH-C,Rajshahi,Paid,Pending,2025-01-27,2025-02-03
+728,2025-06-15,Customer_123,Toothpaste,Personal Care,10,180,1800.0,WH-C,Khulna,Paid,Dispatched,2025-06-16,2025-06-17
+729,2025-01-07,Customer_198,Ice Cream,Foods,19,500,9500.0,WH-A,Rajshahi,Paid,Cancelled,2025-01-11,2025-01-15
+730,2025-06-10,Customer_229,Tea,Foods,15,120,1800.0,WH-C,Khulna,Failed,Delivered,2025-06-11,2025-06-15
+731,2025-06-28,Customer_148,Toothpaste,Personal Care,14,250,3500.0,WH-A,Dhaka,Failed,Cancelled,2025-07-03,2025-07-08
+732,2025-06-22,Customer_29,Tea,Foods,2,500,1000.0,WH-B,Khulna,Pending,Delivered,2025-06-25,2025-06-26
+733,2025-06-15,Customer_18,Toothpaste,Personal Care,12,180,2160.0,WH-C,Chattogram,Paid,Cancelled,2025-06-20,2025-06-26
+734,2025-06-16,Customer_241,Shampoo,Personal Care,18,120,2160.0,WH-C,Chattogram,Failed,Pending,2025-06-20,2025-06-26
+735,2025-05-09,Customer_14,Toothpaste,Personal Care,12,250,3000.0,WH-A,Khulna,Pending,Dispatched,2025-05-13,2025-05-16
+736,2025-02-01,Customer_137,Detergent,Home Care,17,500,8500.0,WH-C,Sylhet,Pending,Dispatched,2025-02-05,2025-02-11
+737,2025-02-18,Customer_21,Lotion,Beauty,12,120,1440.0,WH-B,Chattogram,Pending,Delivered,2025-02-22,2025-02-23
+738,2025-01-29,Customer_39,Soap,Personal Care,6,250,1500.0,WH-A,Sylhet,Failed,Delivered,2025-01-31,2025-02-04
+739,2025-02-03,Customer_108,Toothpaste,Personal Care,14,500,7000.0,WH-B,Dhaka,Pending,Pending,2025-02-07,2025-02-10
+740,2025-05-14,Customer_149,Soap,Personal Care,1,180,180.0,WH-B,Khulna,Pending,Dispatched,2025-05-17,2025-05-21
+741,2025-02-03,Customer_203,Detergent,Home Care,10,500,5000.0,WH-B,Chattogram,Pending,Cancelled,2025-02-06,2025-02-08
+742,2025-04-01,Customer_245,Toothpaste,Personal Care,2,180,360.0,WH-A,Sylhet,Paid,Cancelled,2025-04-04,2025-04-08
+743,2025-02-11,Customer_11,Shampoo,Personal Care,6,180,1080.0,WH-B,Sylhet,Paid,Dispatched,2025-02-13,2025-02-14
+744,2025-02-22,Customer_9,Toothpaste,Personal Care,12,180,2160.0,WH-C,Khulna,Pending,Pending,2025-02-27,2025-03-05
+745,2025-02-11,Customer_32,Toothpaste,Personal Care,15,500,7500.0,WH-A,Rajshahi,Pending,Pending,2025-02-16,2025-02-19
+746,2025-01-02,Customer_85,Detergent,Home Care,11,180,1980.0,WH-C,Khulna,Pending,Cancelled,2025-01-07,2025-01-12
+747,2025-05-25,,Ice Cream,Foods,19,180,3420.0,WH-A,Rajshahi,Paid,Pending,,2025-06-01
+748,2025-03-20,Customer_159,Tea,Foods,18,120,2160.0,WH-A,Rajshahi,Pending,Delivered,2025-03-21,2025-03-25
+749,2025-06-14,Customer_135,Toothpaste,Personal Care,2,500,1000.0,WH-A,Khulna,Paid,Delivered,2025-06-16,2025-06-21
+750,2025-06-23,Customer_101,Soap,Personal Care,18,350,6300.0,WH-A,Rajshahi,Pending,Delivered,2025-06-24,2025-06-29
+751,2025-02-07,Customer_99,Tea,Foods,12,350,4200.0,WH-B,Dhaka,Pending,Cancelled,2025-02-11,2025-02-14
+752,2025-05-24,Customer_187,Toothpaste,Personal Care,10,350,3500.0,WH-B,Rajshahi,Pending,Cancelled,2025-05-25,2025-05-27
+753,2025-02-05,Customer_23,Shampoo,Personal Care,14,350,4900.0,WH-A,Chattogram,Pending,Dispatched,2025-02-10,2025-02-15
+754,2025-01-17,Customer_97,Ice Cream,Foods,17,250,4250.0,WH-A,Dhaka,Pending,Cancelled,2025-01-22,2025-01-29
+755,2025-04-29,Customer_235,Detergent,Home Care,6,500,3000.0,WH-A,Chattogram,Paid,Dispatched,2025-05-04,2025-05-11
+756,2025-01-11,Customer_150,Toothpaste,Personal Care,18,350,6300.0,WH-B,Rajshahi,Failed,Dispatched,2025-01-14,2025-01-21
+757,2025-02-09,Customer_245,Shampoo,Personal Care,1,120,120.0,WH-C,Rajshahi,Paid,Cancelled,2025-02-12,2025-02-15
+758,2025-06-26,Customer_31,Detergent,Home Care,6,350,2100.0,WH-B,Rajshahi,Paid,Cancelled,2025-06-28,2025-06-29
+759,2025-04-22,Customer_176,Lotion,Beauty,16,500,8000.0,WH-B,Dhaka,Pending,Delivered,2025-04-25,2025-05-01
+760,2025-05-29,Customer_82,Ice Cream,Foods,9,180,1620.0,WH-B,Chattogram,Pending,Pending,2025-05-30,2025-06-01
+761,2025-04-18,Customer_75,Soap,Personal Care,9,250,2250.0,WH-B,Sylhet,Failed,Delivered,2025-04-21,2025-04-22
+762,2025-01-25,Customer_43,Lotion,Beauty,7,180,1260.0,WH-C,Khulna,Pending,Cancelled,2025-01-30,2025-02-06
+763,2025-05-17,Customer_211,Toothpaste,Personal Care,12,120,1440.0,WH-A,Dhaka,Paid,Cancelled,2025-05-22,2025-05-25
+764,2025-03-29,Customer_56,Toothpaste,Personal Care,16,350,5600.0,WH-A,Sylhet,Paid,Pending,2025-03-31,2025-04-01
+765,2025-06-26,Customer_137,Ice Cream,Foods,18,500,9000.0,WH-C,Sylhet,Failed,Delivered,2025-07-01,2025-07-08
+766,2025-01-30,Customer_123,Detergent,Home Care,15,120,1800.0,WH-B,Khulna,Failed,Cancelled,2025-02-01,2025-02-02
+767,2025-05-14,Customer_182,Shampoo,Personal Care,15,500,7500.0,WH-B,Dhaka,Failed,Delivered,2025-05-17,2025-05-19
+768,2025-06-26,Customer_33,Shampoo,Personal Care,5,180,900.0,WH-A,Chattogram,Paid,Dispatched,2025-06-28,2025-07-01
+769,2025-01-05,Customer_111,Tea,Foods,4,120,480.0,WH-A,Chattogram,Paid,Delivered,2025-01-09,2025-01-16
+770,2025-01-16,Customer_233,Ice Cream,Foods,17,500,8500.0,WH-B,Dhaka,Paid,Cancelled,2025-01-20,2025-01-21
+771,2025-02-01,Customer_151,Tea,Foods,1,120,120.0,WH-A,Chattogram,Failed,Cancelled,2025-02-06,2025-02-08
+772,2025-03-13,Customer_91,Soap,Personal Care,3,180,540.0,WH-A,Sylhet,Failed,Pending,2025-03-18,2025-03-21
+773,2025-01-26,Customer_4,Lotion,Beauty,19,120,2280.0,WH-C,Chattogram,Failed,Pending,2025-01-31,2025-02-07
+774,2025-01-02,Customer_236,Toothpaste,Personal Care,6,500,3000.0,WH-C,Rajshahi,Pending,Pending,2025-01-03,2025-01-05
+775,2025-04-01,Customer_55,Detergent,Home Care,4,180,720.0,WH-C,Chattogram,Pending,Delivered,2025-04-05,2025-04-09
+776,2025-04-30,Customer_35,Ice Cream,Foods,11,120,1320.0,WH-B,Khulna,Failed,Cancelled,2025-05-01,2025-05-06
+777,2025-03-25,Customer_99,Lotion,Beauty,2,120,240.0,WH-B,Rajshahi,Failed,Cancelled,2025-03-29,2025-03-30
+778,2025-05-22,Customer_219,Tea,Foods,15,180,2700.0,WH-B,Chattogram,Paid,Dispatched,2025-05-26,2025-05-29
+779,2025-01-04,Customer_27,Tea,Foods,12,180,2160.0,WH-B,Rajshahi,Failed,Delivered,2025-01-08,2025-01-14
+780,2025-04-13,,Soap,Personal Care,5,350,1750.0,WH-A,Dhaka,Pending,Pending,,2025-04-19
+781,2025-04-14,Customer_215,Toothpaste,Personal Care,7,500,3500.0,WH-B,Rajshahi,Pending,Cancelled,2025-04-15,2025-04-17
+782,2025-05-02,Customer_125,Ice Cream,Foods,13,250,3250.0,WH-C,Khulna,Paid,Dispatched,2025-05-07,2025-05-11
+783,2025-05-06,Customer_161,Soap,Personal Care,4,250,1000.0,WH-A,Dhaka,Paid,Delivered,2025-05-10,2025-05-12
+784,2025-06-23,Customer_98,Ice Cream,Foods,3,350,1050.0,WH-C,Khulna,Paid,Cancelled,2025-06-24,2025-06-26
+785,2025-01-20,,Lotion,Beauty,20,120,2400.0,WH-B,Chattogram,Pending,Dispatched,,2025-02-01
+786,2025-05-19,Customer_221,Detergent,Home Care,17,250,4250.0,WH-C,Sylhet,Paid,Delivered,2025-05-22,2025-05-29
+787,2025-04-26,Customer_97,Detergent,Home Care,4,350,1400.0,WH-B,Rajshahi,Paid,Delivered,2025-04-29,2025-05-06
+788,2025-06-30,Customer_111,Shampoo,Personal Care,18,250,4500.0,WH-A,Khulna,Failed,Dispatched,2025-07-02,2025-07-06
+789,2025-06-22,Customer_142,Detergent,Home Care,4,500,2000.0,WH-C,Sylhet,Failed,Dispatched,2025-06-26,2025-07-02
+790,2025-05-10,Customer_68,Detergent,Home Care,18,180,3240.0,WH-B,Sylhet,Pending,Cancelled,2025-05-11,2025-05-15
+791,2025-01-16,Customer_12,Ice Cream,Foods,10,250,2500.0,WH-A,Khulna,Pending,Delivered,2025-01-17,2025-01-22
+792,2025-01-25,Customer_92,Ice Cream,Foods,11,350,3850.0,WH-B,Khulna,Paid,Pending,2025-01-29,2025-02-01
+793,2025-06-01,Customer_17,Shampoo,Personal Care,8,250,2000.0,WH-B,Dhaka,Pending,Pending,2025-06-02,2025-06-08
+794,2025-01-10,Customer_222,Soap,Personal Care,18,250,,WH-B,Sylhet,Failed,Dispatched,2025-01-14,2025-01-20
+795,2025-05-31,Customer_97,Toothpaste,Personal Care,1,350,350.0,WH-C,Rajshahi,Pending,Delivered,2025-06-01,2025-06-04
+796,2025-06-26,Customer_128,Ice Cream,Foods,16,120,1920.0,WH-C,Khulna,Paid,Cancelled,2025-06-28,2025-07-01
+797,2025-05-08,Customer_218,Toothpaste,Personal Care,14,180,2520.0,WH-C,Chattogram,Pending,Cancelled,2025-05-09,2025-05-16
+798,2025-04-13,Customer_191,Soap,Personal Care,10,500,5000.0,WH-A,Sylhet,Paid,Cancelled,2025-04-15,2025-04-20
+799,2025-05-16,Customer_54,Toothpaste,Personal Care,3,500,1500.0,WH-B,Dhaka,Failed,Cancelled,2025-05-20,2025-05-24
+800,2025-06-19,Customer_52,Lotion,Beauty,10,350,3500.0,WH-B,Rajshahi,Pending,Dispatched,2025-06-24,2025-06-27
+801,2025-01-05,Customer_48,Tea,Foods,18,180,3240.0,WH-C,Rajshahi,Paid,Dispatched,2025-01-10,2025-01-17
+802,2025-04-22,Customer_161,Toothpaste,Personal Care,18,500,9000.0,WH-A,Sylhet,Paid,Cancelled,2025-04-27,2025-05-03
+803,2025-02-08,Customer_112,Detergent,Home Care,5,180,900.0,WH-B,Khulna,Paid,Pending,2025-02-11,2025-02-18
+804,2025-03-15,Customer_176,Ice Cream,Foods,14,250,3500.0,WH-C,Chattogram,Pending,Pending,2025-03-17,2025-03-20
+805,2025-01-08,Customer_212,Soap,Personal Care,5,180,900.0,WH-B,Rajshahi,Pending,Dispatched,2025-01-10,2025-01-17
+806,2025-02-10,Customer_8,Detergent,Home Care,2,180,360.0,WH-B,Khulna,Failed,Pending,2025-02-13,2025-02-15
+807,2025-01-06,Customer_230,Tea,Foods,2,350,700.0,WH-A,Khulna,Failed,Cancelled,2025-01-07,2025-01-14
+808,2025-04-04,Customer_242,Ice Cream,Foods,3,350,1050.0,WH-C,Chattogram,Paid,Delivered,2025-04-05,2025-04-09
+809,2025-05-14,Customer_239,Lotion,Beauty,17,120,2040.0,WH-C,Khulna,Pending,Delivered,2025-05-19,2025-05-26
+810,2025-03-22,Customer_150,Shampoo,Personal Care,20,120,2400.0,WH-C,Rajshahi,Failed,Pending,2025-03-25,2025-04-01
+811,2025-01-28,Customer_249,Detergent,Home Care,7,180,1260.0,WH-B,Rajshahi,Pending,Cancelled,2025-01-30,2025-02-01
+812,2025-05-06,Customer_180,Ice Cream,Foods,19,120,2280.0,WH-A,Khulna,Failed,Dispatched,2025-05-11,2025-05-14
+813,2025-02-07,Customer_184,Detergent,Home Care,8,250,2000.0,,Khulna,Paid,Delivered,2025-02-10,2025-02-14
+814,2025-03-06,Customer_80,Ice Cream,Foods,2,180,360.0,WH-C,Khulna,Failed,Delivered,2025-03-11,2025-03-15
+815,2025-04-10,Customer_238,Lotion,Beauty,8,350,2800.0,WH-B,Khulna,Paid,Pending,2025-04-11,2025-04-15
+816,2025-04-23,Customer_197,Toothpaste,Personal Care,7,180,1260.0,WH-C,Rajshahi,Paid,Cancelled,2025-04-26,2025-05-03
+817,2025-05-01,Customer_86,Ice Cream,Foods,3,350,1050.0,WH-C,Rajshahi,Paid,Pending,2025-05-05,2025-05-12
+818,2025-01-17,Customer_155,Tea,Foods,9,500,4500.0,WH-C,Sylhet,Failed,Cancelled,2025-01-20,2025-01-24
+819,2025-06-14,Customer_114,Detergent,Home Care,1,120,120.0,,Chattogram,Paid,Dispatched,2025-06-16,2025-06-22
+820,2025-05-28,Customer_41,Shampoo,Personal Care,10,250,2500.0,WH-A,Sylhet,Failed,Pending,2025-05-29,2025-05-30
+821,2025-03-23,Customer_224,Ice Cream,Foods,20,350,7000.0,WH-C,Chattogram,Pending,Pending,2025-03-27,2025-03-31
+822,2025-03-14,Customer_107,Tea,Foods,19,250,4750.0,WH-B,Chattogram,Pending,Dispatched,2025-03-16,2025-03-17
+823,2025-01-06,Customer_166,Ice Cream,Foods,19,180,3420.0,WH-C,Chattogram,Paid,Dispatched,2025-01-07,2025-01-12
+824,2025-01-13,Customer_110,Shampoo,Personal Care,9,180,1620.0,WH-C,Khulna,Paid,Delivered,2025-01-17,2025-01-22
+825,2025-01-31,Customer_135,Toothpaste,Personal Care,6,500,3000.0,WH-B,Rajshahi,Failed,Dispatched,2025-02-01,2025-02-07
+826,2025-02-18,Customer_192,Soap,Personal Care,8,180,1440.0,WH-B,Rajshahi,Paid,Dispatched,2025-02-21,2025-02-24
+827,2025-02-25,Customer_174,Ice Cream,Foods,7,500,3500.0,WH-A,Rajshahi,Paid,Dispatched,2025-02-28,2025-03-06
+828,2025-03-16,Customer_159,Ice Cream,Foods,5,120,600.0,WH-B,Chattogram,Pending,Dispatched,2025-03-19,2025-03-21
+829,2025-02-04,Customer_102,Soap,Personal Care,1,350,350.0,WH-C,Chattogram,,Dispatched,2025-02-07,2025-02-13
+830,2025-03-07,Customer_143,Tea,Foods,14,500,7000.0,WH-A,Dhaka,Pending,Pending,2025-03-08,2025-03-09
+831,2025-06-21,Customer_192,Detergent,Home Care,12,500,6000.0,WH-A,Dhaka,Pending,Dispatched,2025-06-26,2025-07-02
+832,2025-02-03,Customer_149,Toothpaste,Personal Care,13,250,3250.0,WH-A,Khulna,Paid,Dispatched,2025-02-08,2025-02-09
+833,2025-01-23,Customer_136,Toothpaste,Personal Care,15,180,2700.0,WH-B,Chattogram,Pending,Delivered,2025-01-26,2025-02-01
+834,2025-05-08,Customer_93,Toothpaste,Personal Care,2,180,360.0,WH-B,Khulna,Pending,Cancelled,2025-05-11,2025-05-17
+835,2025-02-12,Customer_126,Lotion,Beauty,11,350,3850.0,WH-A,Sylhet,Failed,Dispatched,2025-02-15,2025-02-21
+836,2025-01-14,Customer_10,Soap,Personal Care,7,180,1260.0,WH-B,Khulna,Paid,Dispatched,2025-01-16,2025-01-18
+837,2025-01-11,Customer_182,Detergent,Home Care,4,350,1400.0,WH-C,Rajshahi,Pending,Dispatched,2025-01-15,2025-01-18
+838,2025-03-31,Customer_223,Soap,Personal Care,5,120,600.0,WH-B,Chattogram,Paid,Cancelled,2025-04-01,2025-04-03
+839,2025-05-30,Customer_197,Lotion,Beauty,19,180,3420.0,WH-C,Chattogram,Pending,Delivered,2025-05-31,2025-06-05
+840,2025-03-26,Customer_175,Shampoo,Personal Care,16,120,1920.0,WH-C,Dhaka,Pending,Cancelled,2025-03-27,2025-03-30
+841,2025-02-09,Customer_118,Lotion,Beauty,4,250,1000.0,WH-C,Rajshahi,Pending,Cancelled,2025-02-10,2025-02-11
+842,2025-01-12,Customer_84,Lotion,Beauty,1,250,250.0,WH-C,Sylhet,Paid,Pending,2025-01-17,2025-01-21
+843,2025-03-24,Customer_19,Ice Cream,Foods,2,250,500.0,WH-C,Sylhet,Pending,Delivered,2025-03-25,2025-03-31
+844,2025-03-03,Customer_6,Detergent,Home Care,9,180,1620.0,,Chattogram,Pending,Dispatched,2025-03-07,2025-03-08
+845,2025-03-18,Customer_111,Toothpaste,Personal Care,5,120,600.0,WH-C,Khulna,Failed,Pending,2025-03-22,2025-03-29
+846,2025-05-12,Customer_115,Toothpaste,Personal Care,4,250,1000.0,WH-B,Rajshahi,Pending,Dispatched,2025-05-14,2025-05-18
+847,2025-06-07,Customer_162,Soap,Personal Care,14,250,3500.0,WH-B,Dhaka,Paid,Cancelled,2025-06-09,2025-06-13
+848,2025-05-07,Customer_166,Detergent,Home Care,8,180,1440.0,WH-C,Dhaka,Pending,Dispatched,2025-05-12,2025-05-18
+849,2025-03-18,Customer_176,Detergent,Home Care,3,350,1050.0,WH-B,Chattogram,Failed,Dispatched,2025-03-20,2025-03-22
+850,2025-05-22,Customer_132,Toothpaste,Personal Care,19,120,2280.0,WH-A,Sylhet,Pending,Dispatched,2025-05-23,2025-05-24
+851,2025-03-06,Customer_150,Soap,Personal Care,15,500,7500.0,WH-A,Sylhet,Paid,Delivered,2025-03-09,2025-03-12
+852,2025-02-16,Customer_22,Tea,Foods,15,180,2700.0,,Khulna,Pending,Dispatched,2025-02-20,2025-02-21
+853,2025-03-09,Customer_208,Ice Cream,Foods,15,500,7500.0,WH-A,Chattogram,Paid,Delivered,2025-03-12,2025-03-19
+854,2025-06-22,Customer_137,Tea,Foods,20,250,5000.0,WH-A,Dhaka,Pending,Delivered,2025-06-23,2025-06-27
+855,2025-04-28,Customer_169,Soap,Personal Care,6,350,2100.0,,Sylhet,Failed,Dispatched,2025-05-02,2025-05-09
+856,2025-04-03,Customer_78,Toothpaste,Personal Care,20,500,10000.0,WH-A,Chattogram,Paid,Delivered,2025-04-07,2025-04-14
+857,2025-06-28,Customer_7,Shampoo,Personal Care,4,120,480.0,WH-A,Rajshahi,Failed,Pending,2025-06-30,2025-07-07
+858,2025-06-10,Customer_23,Tea,Foods,8,350,2800.0,WH-B,Rajshahi,Paid,Dispatched,2025-06-15,2025-06-17
+859,2025-02-12,Customer_180,Detergent,Home Care,1,120,120.0,WH-B,Rajshahi,Pending,Delivered,2025-02-14,2025-02-20
+860,2025-03-04,Customer_146,Ice Cream,Foods,15,500,7500.0,WH-B,Dhaka,Pending,Delivered,2025-03-06,2025-03-09
+861,2025-05-07,Customer_188,Soap,Personal Care,14,350,4900.0,WH-C,Khulna,Paid,Dispatched,2025-05-12,2025-05-17
+862,2025-06-01,Customer_232,Detergent,Home Care,16,500,8000.0,WH-B,Chattogram,Failed,Delivered,2025-06-06,2025-06-12
+863,2025-05-28,Customer_17,Lotion,Beauty,1,350,350.0,WH-B,Rajshahi,Pending,Delivered,2025-05-31,2025-06-05
+864,2025-04-25,Customer_42,Detergent,Home Care,20,250,5000.0,WH-B,Chattogram,Pending,Cancelled,2025-04-29,2025-04-30
+865,2025-02-26,Customer_87,Detergent,Home Care,8,500,4000.0,WH-C,Rajshahi,Paid,Cancelled,2025-03-03,2025-03-09
+866,2025-06-22,Customer_121,Tea,Foods,13,350,4550.0,WH-A,Sylhet,Paid,Cancelled,2025-06-25,2025-07-02
+867,2025-02-03,Customer_41,Tea,Foods,3,350,1050.0,WH-C,Rajshahi,Paid,Dispatched,2025-02-05,2025-02-07
+868,2025-02-23,Customer_5,Detergent,Home Care,10,180,1800.0,WH-B,Khulna,Pending,Pending,2025-02-28,2025-03-01
+869,2025-01-17,Customer_30,Shampoo,Personal Care,17,120,2040.0,WH-C,Chattogram,Paid,Pending,2025-01-20,2025-01-24
+870,2025-04-01,Customer_225,Detergent,Home Care,9,250,2250.0,WH-C,Khulna,Paid,Delivered,2025-04-02,2025-04-09
+871,2025-04-28,Customer_201,Tea,Foods,2,350,700.0,WH-C,Sylhet,Paid,Delivered,2025-04-29,2025-04-30
+872,2025-06-11,Customer_53,Lotion,Beauty,4,180,720.0,,Chattogram,Failed,Cancelled,2025-06-12,2025-06-19
+873,2025-05-08,Customer_166,Tea,Foods,15,500,7500.0,WH-B,Khulna,Paid,Delivered,2025-05-09,2025-05-11
+874,2025-04-17,Customer_214,Ice Cream,Foods,7,350,2450.0,WH-B,Khulna,Pending,Pending,2025-04-18,2025-04-20
+875,2025-04-17,Customer_171,Soap,Personal Care,9,250,2250.0,WH-A,Chattogram,Failed,Dispatched,2025-04-20,2025-04-26
+876,2025-04-20,Customer_230,Ice Cream,Foods,8,180,1440.0,WH-B,Sylhet,Failed,Cancelled,2025-04-24,2025-04-28
+877,2025-01-03,Customer_22,Soap,Personal Care,15,180,2700.0,WH-B,Khulna,Pending,Pending,2025-01-08,2025-01-09
+878,2025-01-10,Customer_15,Detergent,Home Care,2,350,700.0,WH-C,Sylhet,Pending,Dispatched,2025-01-12,2025-01-17
+879,2025-03-22,Customer_212,Detergent,Home Care,18,250,4500.0,WH-B,Sylhet,Failed,Pending,2025-03-25,2025-03-26
+880,2025-06-14,Customer_160,Tea,Foods,13,350,4550.0,WH-C,Rajshahi,Failed,Cancelled,2025-06-16,2025-06-21
+881,2025-03-19,Customer_138,Ice Cream,Foods,13,180,2340.0,WH-B,Rajshahi,Failed,Pending,2025-03-20,2025-03-21
+882,2025-02-24,Customer_142,Lotion,Beauty,18,250,4500.0,WH-B,Sylhet,Pending,Pending,2025-02-25,2025-03-02
+883,2025-06-01,Customer_214,Soap,Personal Care,1,500,500.0,WH-B,Rajshahi,Failed,Delivered,2025-06-04,2025-06-06
+884,2025-03-08,Customer_32,Tea,Foods,2,250,500.0,WH-A,Dhaka,Pending,Cancelled,2025-03-13,2025-03-16
+885,2025-03-28,Customer_191,Lotion,Beauty,1,350,350.0,WH-C,Sylhet,Failed,Pending,2025-03-30,2025-04-06
+886,2025-06-20,Customer_36,Toothpaste,Personal Care,10,250,2500.0,WH-C,Rajshahi,Failed,Pending,2025-06-25,2025-07-01
+887,2025-05-30,Customer_200,Soap,Personal Care,11,500,5500.0,WH-B,Rajshahi,Paid,Pending,2025-06-01,2025-06-08
+888,2025-01-21,Customer_109,Tea,Foods,14,350,4900.0,WH-A,Rajshahi,Paid,Dispatched,2025-01-22,2025-01-23
+889,2025-04-14,Customer_133,Soap,Personal Care,12,500,6000.0,WH-B,Khulna,Failed,Dispatched,2025-04-19,2025-04-24
+890,2025-06-26,Customer_250,Tea,Foods,14,350,4900.0,WH-B,Chattogram,Paid,Pending,2025-06-30,2025-07-06
+891,2025-06-30,Customer_136,Detergent,Home Care,15,180,2700.0,WH-A,Chattogram,Pending,Dispatched,2025-07-05,2025-07-12
+892,2025-04-05,Customer_219,Soap,Personal Care,6,500,3000.0,WH-B,Dhaka,Paid,Cancelled,2025-04-06,2025-04-11
+893,2025-05-14,Customer_96,Lotion,Beauty,10,120,1200.0,WH-B,Khulna,Pending,Cancelled,2025-05-16,2025-05-17
+894,2025-02-06,Customer_13,Detergent,Home Care,1,180,180.0,WH-B,Khulna,Paid,Pending,2025-02-11,2025-02-15
+895,2025-02-01,Customer_18,Ice Cream,Foods,16,120,1920.0,WH-A,Rajshahi,Pending,Cancelled,2025-02-06,2025-02-09
+896,2025-04-07,Customer_185,Lotion,Beauty,15,250,3750.0,WH-C,Chattogram,Paid,Dispatched,2025-04-11,2025-04-18
+897,2025-02-08,Customer_205,Ice Cream,Foods,15,350,5250.0,WH-C,Sylhet,Pending,Dispatched,2025-02-11,2025-02-12
+898,2025-05-19,Customer_228,Shampoo,Personal Care,13,250,3250.0,WH-B,Khulna,Failed,Delivered,2025-05-20,2025-05-26
+899,2025-05-27,Customer_166,Ice Cream,Foods,6,120,720.0,WH-A,Sylhet,Paid,Pending,2025-05-30,2025-06-04
+900,2025-01-14,Customer_49,Lotion,Beauty,18,500,9000.0,WH-B,Sylhet,Paid,Delivered,2025-01-19,2025-01-24
+901,2025-01-05,Customer_53,Tea,Foods,18,180,3240.0,WH-A,Sylhet,Pending,Delivered,2025-01-08,2025-01-15
+902,2025-03-24,Customer_12,Ice Cream,Foods,18,500,9000.0,WH-B,Dhaka,Pending,Dispatched,2025-03-28,2025-04-02
+903,2025-05-16,Customer_66,Shampoo,Personal Care,14,120,1680.0,WH-A,Dhaka,Paid,Pending,2025-05-19,2025-05-23
+904,2025-03-07,Customer_79,Toothpaste,Personal Care,5,180,900.0,WH-B,Chattogram,,Cancelled,2025-03-08,2025-03-10
+905,2025-03-18,Customer_82,Shampoo,Personal Care,1,120,120.0,WH-A,Rajshahi,,Cancelled,2025-03-22,2025-03-23
+906,2025-02-21,Customer_153,Detergent,Home Care,4,120,480.0,WH-C,Chattogram,Pending,Dispatched,2025-02-23,2025-03-02
+907,2025-03-23,,Soap,Personal Care,9,120,1080.0,WH-A,Rajshahi,Paid,Dispatched,,2025-04-01
+908,2025-03-10,Customer_173,Tea,Foods,8,120,960.0,WH-A,Chattogram,Failed,Pending,2025-03-15,2025-03-20
+909,2025-04-25,Customer_163,Toothpaste,Personal Care,19,350,6650.0,WH-C,Chattogram,Paid,Cancelled,2025-04-26,2025-05-03
+910,2025-05-18,Customer_116,Lotion,Beauty,6,180,1080.0,WH-A,Dhaka,Pending,Cancelled,2025-05-22,2025-05-27
+911,2025-01-16,Customer_154,Tea,Foods,6,120,720.0,WH-B,Rajshahi,Pending,Pending,2025-01-20,2025-01-23
+912,2025-01-12,Customer_137,Lotion,Beauty,17,250,4250.0,WH-C,Dhaka,Pending,Delivered,2025-01-14,2025-01-20
+913,2025-05-23,Customer_54,Detergent,Home Care,4,180,720.0,WH-C,Sylhet,Pending,Cancelled,2025-05-26,2025-05-30
+914,2025-03-11,Customer_83,Tea,Foods,9,350,3150.0,WH-B,Chattogram,Pending,Cancelled,2025-03-13,2025-03-19
+915,2025-06-05,Customer_231,Soap,Personal Care,5,120,600.0,WH-A,Chattogram,Pending,Dispatched,2025-06-09,2025-06-10
+916,2025-01-21,Customer_8,Ice Cream,Foods,13,500,6500.0,WH-C,Rajshahi,Failed,Delivered,2025-01-22,2025-01-27
+917,2025-04-02,Customer_215,Toothpaste,Personal Care,13,500,6500.0,WH-C,Dhaka,Paid,Dispatched,2025-04-06,2025-04-08
+918,2025-01-03,Customer_6,Toothpaste,Personal Care,7,350,2450.0,WH-B,Khulna,Paid,Delivered,2025-01-05,2025-01-11
+919,2025-02-26,Customer_248,Ice Cream,Foods,20,250,5000.0,WH-B,Dhaka,Pending,Dispatched,2025-02-28,2025-03-04
+920,2025-01-02,Customer_164,Tea,Foods,20,180,3600.0,WH-B,Dhaka,Pending,Dispatched,2025-01-04,2025-01-11
+921,2025-06-18,Customer_175,Shampoo,Personal Care,18,180,3240.0,WH-C,Sylhet,Paid,Delivered,2025-06-23,2025-06-29
+922,2025-02-02,Customer_220,Lotion,Beauty,5,120,600.0,WH-A,Sylhet,Failed,Cancelled,2025-02-05,2025-02-10
+923,2025-06-07,Customer_144,Shampoo,Personal Care,1,500,500.0,WH-B,Dhaka,Pending,Delivered,2025-06-10,2025-06-16
+924,2025-04-15,Customer_175,Ice Cream,Foods,11,350,3850.0,WH-C,Rajshahi,Pending,Cancelled,2025-04-18,2025-04-19
+925,2025-01-13,Customer_137,Lotion,Beauty,2,180,360.0,WH-B,Khulna,Paid,Dispatched,2025-01-16,2025-01-20
+926,2025-05-27,Customer_58,Shampoo,Personal Care,11,120,1320.0,WH-C,Rajshahi,Paid,Pending,2025-05-28,2025-06-03
+927,2025-03-21,Customer_161,Shampoo,Personal Care,6,250,1500.0,WH-A,Dhaka,Pending,Dispatched,2025-03-22,2025-03-28
+928,2025-06-10,Customer_65,Ice Cream,Foods,1,500,500.0,WH-A,Dhaka,Pending,Pending,2025-06-13,2025-06-20
+929,2025-05-14,Customer_199,Toothpaste,Personal Care,2,250,500.0,WH-C,Sylhet,Pending,Delivered,2025-05-16,2025-05-17
+930,2025-02-01,Customer_235,Tea,Foods,15,500,7500.0,WH-A,Rajshahi,Pending,Delivered,2025-02-02,2025-02-03
+931,2025-04-24,Customer_157,Ice Cream,Foods,5,120,600.0,WH-C,Rajshahi,Paid,Delivered,2025-04-25,2025-04-28
+932,2025-01-14,Customer_98,Tea,Foods,2,500,1000.0,WH-B,Dhaka,Failed,Dispatched,2025-01-17,2025-01-24
+933,2025-01-03,Customer_119,Shampoo,Personal Care,20,500,10000.0,WH-B,Sylhet,Failed,Delivered,2025-01-07,2025-01-11
+934,2025-05-13,Customer_50,Toothpaste,Personal Care,1,350,350.0,WH-A,Dhaka,Paid,Delivered,2025-05-16,2025-05-21
+935,2025-02-02,Customer_91,Lotion,Beauty,7,500,3500.0,WH-B,Rajshahi,Failed,Dispatched,2025-02-07,2025-02-10
+936,2025-01-12,Customer_80,Shampoo,Personal Care,8,180,1440.0,WH-C,Rajshahi,Failed,Cancelled,2025-01-13,2025-01-15
+937,2025-02-07,Customer_80,Toothpaste,Personal Care,19,500,9500.0,WH-C,Khulna,Pending,Cancelled,2025-02-09,2025-02-13
+938,2025-06-18,Customer_61,Soap,Personal Care,17,500,8500.0,WH-C,Sylhet,Paid,Dispatched,2025-06-20,2025-06-21
+939,2025-06-13,Customer_18,Toothpaste,Personal Care,7,180,1260.0,WH-B,Chattogram,Failed,Dispatched,2025-06-15,2025-06-22
+940,2025-06-27,Customer_149,Tea,Foods,15,500,7500.0,WH-C,Khulna,Failed,Cancelled,2025-06-30,2025-07-07
+941,2025-01-27,Customer_234,Detergent,Home Care,11,180,1980.0,WH-A,Rajshahi,Paid,Delivered,2025-01-31,2025-02-07
+942,2025-04-30,Customer_62,Tea,Foods,8,180,1440.0,,Khulna,Failed,Dispatched,2025-05-05,2025-05-07
+943,2025-01-02,Customer_19,Shampoo,Personal Care,13,180,2340.0,WH-B,Dhaka,Failed,Delivered,2025-01-05,2025-01-06
+944,2025-02-19,Customer_93,Shampoo,Personal Care,10,350,3500.0,,Dhaka,Paid,Pending,2025-02-24,2025-03-03
+945,2025-03-09,Customer_217,Toothpaste,Personal Care,6,180,1080.0,WH-C,Chattogram,Paid,Pending,2025-03-11,2025-03-14
+946,2025-01-26,Customer_174,Soap,Personal Care,6,250,1500.0,WH-A,Rajshahi,Failed,Delivered,2025-01-27,2025-02-03
+947,2025-04-27,Customer_208,Toothpaste,Personal Care,7,250,1750.0,WH-B,Chattogram,Failed,Dispatched,2025-04-29,2025-05-02
+948,2025-02-06,Customer_49,Tea,Foods,3,120,360.0,WH-A,Sylhet,Pending,Cancelled,2025-02-08,2025-02-15
+949,2025-06-12,Customer_196,Toothpaste,Personal Care,20,350,7000.0,WH-C,Sylhet,Paid,Cancelled,2025-06-14,2025-06-15
+950,2025-03-05,Customer_204,Ice Cream,Foods,5,250,1250.0,WH-B,Chattogram,Failed,Dispatched,2025-03-06,2025-03-12
+951,2025-06-19,Customer_43,Shampoo,Personal Care,3,350,1050.0,WH-C,Rajshahi,Failed,Cancelled,2025-06-24,2025-06-25
+952,2025-02-15,Customer_96,Detergent,Home Care,17,350,5950.0,WH-C,Rajshahi,Failed,Dispatched,2025-02-18,2025-02-24
+953,2025-04-13,Customer_10,Detergent,Home Care,9,500,4500.0,WH-A,Chattogram,Paid,Dispatched,2025-04-18,2025-04-24
+954,2025-02-25,Customer_228,Ice Cream,Foods,8,350,2800.0,WH-B,Sylhet,Paid,Cancelled,2025-02-28,2025-03-04
+955,2025-02-04,Customer_114,Toothpaste,Personal Care,18,120,2160.0,WH-C,Khulna,Paid,Delivered,2025-02-05,2025-02-08
+956,2025-03-28,Customer_120,Detergent,Home Care,17,500,8500.0,WH-B,Rajshahi,Pending,Dispatched,2025-04-01,2025-04-05
+957,2025-01-07,Customer_60,Toothpaste,Personal Care,9,350,3150.0,WH-B,Dhaka,Pending,Delivered,2025-01-09,2025-01-13
+958,2025-05-20,Customer_71,Toothpaste,Personal Care,17,500,8500.0,WH-A,Dhaka,Paid,Delivered,2025-05-21,2025-05-28
+959,2025-02-21,Customer_173,Toothpaste,Personal Care,2,500,1000.0,WH-B,Khulna,Pending,Cancelled,2025-02-24,2025-02-26
+960,2025-05-20,Customer_198,Shampoo,Personal Care,20,180,3600.0,WH-B,Khulna,Pending,Dispatched,2025-05-23,2025-05-24
+961,2025-05-01,Customer_244,Detergent,Home Care,19,120,2280.0,WH-A,Rajshahi,Paid,Pending,2025-05-06,2025-05-13
+962,2025-03-01,Customer_202,Tea,Foods,7,350,2450.0,WH-C,Rajshahi,Failed,Dispatched,2025-03-06,2025-03-11
+963,2025-02-18,Customer_242,Toothpaste,Personal Care,3,250,750.0,WH-C,Rajshahi,Paid,Dispatched,2025-02-22,2025-03-01
+964,2025-04-06,Customer_224,Detergent,Home Care,18,120,2160.0,WH-A,Khulna,Failed,Delivered,2025-04-08,2025-04-13
+965,2025-02-27,Customer_176,Detergent,Home Care,12,250,3000.0,WH-B,Sylhet,Pending,Cancelled,2025-03-03,2025-03-07
+966,2025-01-09,Customer_244,Lotion,Beauty,1,500,500.0,WH-B,Sylhet,Failed,Dispatched,2025-01-11,2025-01-13
+967,2025-01-17,Customer_49,Detergent,Home Care,7,350,2450.0,WH-B,Dhaka,Pending,Dispatched,2025-01-22,2025-01-26
+968,2025-02-13,Customer_142,Tea,Foods,10,120,1200.0,WH-A,Dhaka,Failed,Dispatched,2025-02-14,2025-02-20
+969,2025-01-18,Customer_53,Soap,Personal Care,6,180,1080.0,WH-A,Khulna,Failed,Delivered,2025-01-22,2025-01-25
+970,2025-05-13,Customer_84,Detergent,Home Care,2,250,500.0,WH-B,Rajshahi,Paid,Delivered,2025-05-14,2025-05-16
+971,2025-05-03,Customer_245,Shampoo,Personal Care,18,350,6300.0,WH-A,Chattogram,Paid,Cancelled,2025-05-04,2025-05-08
+972,2025-06-04,Customer_151,Detergent,Home Care,16,180,2880.0,WH-A,Sylhet,Failed,Dispatched,2025-06-09,2025-06-12
+973,2025-02-06,Customer_212,Toothpaste,Personal Care,7,120,840.0,WH-B,Sylhet,Paid,Cancelled,2025-02-10,2025-02-11
+974,2025-04-29,Customer_189,Lotion,Beauty,16,350,5600.0,WH-A,Khulna,Failed,Dispatched,2025-05-04,2025-05-05
+975,2025-06-06,Customer_64,Toothpaste,Personal Care,10,350,3500.0,WH-A,Sylhet,Failed,Dispatched,2025-06-08,2025-06-12
+976,2025-06-28,Customer_101,Detergent,Home Care,13,180,2340.0,WH-C,Dhaka,Paid,Pending,2025-07-03,2025-07-04
+977,2025-06-20,Customer_186,Toothpaste,Personal Care,18,250,4500.0,WH-C,Chattogram,Pending,Dispatched,2025-06-21,2025-06-27
+978,2025-04-05,,Ice Cream,Foods,18,120,2160.0,WH-C,Khulna,Pending,Dispatched,,2025-04-13
+979,2025-05-10,Customer_7,Shampoo,Personal Care,9,180,1620.0,WH-A,Rajshahi,Pending,Cancelled,2025-05-11,2025-05-15
+980,2025-04-12,Customer_65,Tea,Foods,13,180,2340.0,WH-A,Chattogram,Pending,Dispatched,2025-04-13,2025-04-14
+981,2025-01-22,Customer_63,Detergent,Home Care,15,120,1800.0,WH-C,Rajshahi,Paid,Dispatched,2025-01-27,2025-02-02
+982,2025-02-13,Customer_26,Ice Cream,Foods,9,180,1620.0,WH-A,Khulna,Paid,Dispatched,2025-02-14,2025-02-19
+983,2025-06-23,Customer_113,Shampoo,Personal Care,3,120,360.0,WH-B,Chattogram,Paid,Delivered,2025-06-26,2025-06-28
+984,2025-04-24,Customer_163,Tea,Foods,18,180,3240.0,WH-C,Dhaka,Pending,Cancelled,2025-04-25,2025-05-02
+985,2025-01-02,Customer_97,Detergent,Home Care,2,500,1000.0,WH-A,Chattogram,Pending,Pending,2025-01-03,2025-01-10
+986,2025-04-18,Customer_87,Shampoo,Personal Care,3,120,360.0,WH-A,Dhaka,Paid,Delivered,2025-04-19,2025-04-20
+987,2025-01-12,Customer_28,Ice Cream,Foods,6,180,1080.0,WH-B,Khulna,Failed,Pending,2025-01-16,2025-01-21
+988,2025-04-12,Customer_60,Lotion,Beauty,7,500,3500.0,WH-A,Dhaka,Pending,Cancelled,2025-04-16,2025-04-17
+989,2025-06-17,Customer_100,Shampoo,Personal Care,1,350,350.0,WH-A,Rajshahi,Paid,Delivered,2025-06-20,2025-06-21
+990,2025-04-05,Customer_227,Tea,Foods,9,500,4500.0,WH-A,Rajshahi,Pending,Dispatched,2025-04-06,2025-04-07
+991,2025-02-13,Customer_154,Soap,Personal Care,18,500,9000.0,WH-B,Rajshahi,Failed,Pending,2025-02-16,2025-02-17
+992,2025-06-20,Customer_86,Toothpaste,Personal Care,6,250,1500.0,WH-A,Sylhet,Failed,Dispatched,2025-06-24,2025-06-25
+993,2025-05-09,Customer_4,Detergent,Home Care,17,180,3060.0,WH-A,Dhaka,Failed,Delivered,2025-05-14,2025-05-20
+994,2025-03-04,Customer_16,Toothpaste,Personal Care,8,350,2800.0,WH-A,Khulna,Pending,Cancelled,2025-03-09,2025-03-10
+995,2025-02-22,Customer_237,Shampoo,Personal Care,5,350,1750.0,WH-C,Sylhet,Pending,Cancelled,2025-02-23,2025-02-25
+996,2025-06-14,Customer_203,Shampoo,Personal Care,9,250,2250.0,WH-B,Khulna,Paid,Pending,2025-06-15,2025-06-20
+997,2025-03-04,Customer_14,Ice Cream,Foods,11,250,2750.0,WH-C,Chattogram,Failed,Pending,2025-03-06,2025-03-11
+998,2025-03-24,Customer_162,Lotion,Beauty,13,500,6500.0,WH-A,Dhaka,Pending,Delivered,2025-03-26,2025-03-30
+999,2025-02-22,Customer_45,Shampoo,Personal Care,2,180,360.0,WH-C,Sylhet,Paid,Pending,2025-02-24,2025-02-25
+1000,2025-04-30,Customer_185,Lotion,Beauty,3,350,1050.0,WH-A,Chattogram,Pending,Pending,2025-05-03,2025-05-05
+508,2025-05-14,Customer_2,Soap,Personal Care,1,500,500.0,WH-B,Chattogram,Failed,Cancelled,2025-05-15,2025-05-20
+819,2025-06-14,Customer_114,Detergent,Home Care,1,120,120.0,WH-C,Chattogram,Paid,Dispatched,2025-06-16,2025-06-22
+453,2025-03-24,Customer_108,Tea,Foods,20,500,10000.0,WH-C,Chattogram,Pending,Dispatched,2025-03-29,2025-04-02
+369,2025-03-02,Customer_207,Ice Cream,Foods,6,180,1080.0,WH-C,Khulna,Failed,Delivered,2025-03-07,2025-03-10
+243,2025-02-12,Customer_134,Lotion,Beauty,18,180,3240.0,WH-B,Dhaka,Failed,Pending,2025-02-15,2025-02-22
+930,2025-02-01,Customer_235,Tea,Foods,15,500,7500.0,WH-A,Rajshahi,Pending,Delivered,2025-02-02,2025-02-03
+263,2025-01-12,Customer_57,Toothpaste,Personal Care,11,350,3850.0,WH-C,Chattogram,Paid,Cancelled,2025-01-17,2025-01-24
+811,2025-01-28,Customer_249,Detergent,Home Care,7,180,1260.0,WH-B,Rajshahi,Pending,Cancelled,2025-01-30,2025-02-01
+319,2025-06-27,Customer_244,Detergent,Home Care,17,250,4250.0,WH-B,Khulna,Failed,Delivered,2025-06-30,2025-07-04
+50,2025-06-05,Customer_114,Shampoo,Personal Care,14,500,7000.0,WH-B,Chattogram,Failed,Dispatched,2025-06-08,2025-06-12
+447,2025-05-02,Customer_116,Lotion,Beauty,20,500,10000.0,WH-A,Dhaka,Failed,Pending,2025-05-05,2025-05-11
+143,2025-06-07,,Ice Cream,Foods,18,500,9000.0,WH-C,Khulna,Paid,Pending,,2025-06-13
+969,2025-01-18,Customer_53,Soap,Personal Care,6,180,1080.0,WH-A,Khulna,Failed,Delivered,2025-01-22,2025-01-25
+346,2025-02-27,Customer_245,Lotion,Beauty,2,180,360.0,WH-B,Dhaka,Pending,Cancelled,2025-03-04,2025-03-05
+972,2025-06-04,Customer_151,Detergent,Home Care,16,180,2880.0,WH-A,Sylhet,Failed,Dispatched,2025-06-09,2025-06-12
+134,2025-04-28,Customer_123,Tea,Foods,17,250,4250.0,WH-B,Rajshahi,Failed,Delivered,2025-04-29,2025-04-30
+105,2025-05-27,Customer_220,Toothpaste,Personal Care,7,180,1260.0,WH-B,Dhaka,Pending,Dispatched,2025-05-31,2025-06-02
+7,2025-04-08,Customer_163,Ice Cream,Foods,8,120,960.0,WH-B,Chattogram,Pending,Cancelled,2025-04-11,2025-04-15
+601,2025-05-05,Customer_23,Lotion,Beauty,4,250,1000.0,WH-A,Chattogram,Failed,Dispatched,2025-05-10,2025-05-15
+497,2025-03-26,Customer_173,Tea,Foods,8,350,2800.0,WH-B,Rajshahi,Paid,Pending,2025-03-27,2025-03-31
+703,2025-04-14,Customer_207,Soap,Personal Care,11,120,1320.0,WH-C,Sylhet,Pending,Pending,2025-04-15,2025-04-17
+473,2025-01-19,Customer_59,Shampoo,Personal Care,9,500,4500.0,,Rajshahi,Pending,Dispatched,2025-01-24,2025-01-31
+599,2025-02-21,Customer_14,Shampoo,Personal Care,2,250,500.0,WH-B,Dhaka,Paid,Dispatched,2025-02-26,2025-03-01
+503,2025-02-08,Customer_46,Lotion,Beauty,17,350,5950.0,WH-B,Sylhet,Failed,Delivered,2025-02-13,2025-02-14
+434,2025-02-14,Customer_75,Detergent,Home Care,2,120,240.0,WH-B,Khulna,Pending,Delivered,2025-02-15,2025-02-22
+120,2025-05-04,Customer_223,Ice Cream,Foods,6,250,1500.0,WH-B,Dhaka,Pending,Delivered,2025-05-07,2025-05-13
+109,2025-01-10,Customer_61,Toothpaste,Personal Care,16,500,8000.0,WH-C,Khulna,Paid,Delivered,2025-01-15,2025-01-16
+648,2025-02-21,Customer_71,Tea,Foods,7,250,1750.0,WH-C,Khulna,Pending,Delivered,2025-02-23,2025-02-26
+590,2025-04-11,Customer_87,Shampoo,Personal Care,14,250,3500.0,WH-A,Rajshahi,Failed,Delivered,2025-04-13,2025-04-15
+375,2025-05-24,Customer_92,Tea,Foods,11,180,1980.0,WH-A,Sylhet,Paid,Dispatched,2025-05-29,2025-06-05
