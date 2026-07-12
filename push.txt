@@ -1,4 +1,4 @@
-cd "C:\Users\sabbir\OneDrive\Desktop\Data Analist\Mysql"
+cd "C:\Users\sabbir\OneDrive\Desktop\Data Analist"
 
 git status
 git add .
